@@ -1,0 +1,19 @@
+{
+  "name": "পড়ুয়া",
+  "short_name": "পড়ুয়া",
+  "description": "বিসিএস, ব্যাংক, মেডিকেল, বিশ্ববিদ্যালয় ভর্তি ও সকল চাকরির পরীক্ষার জন্য সাজানো-গোছানো প্রস্তুতি। বিষয়ভিত্তিক ও টপিকভিত্তিক নোট — রঙে চিহ্নিত গুরুত্বপূর্ণ তথ্য, এক নজরে মনে রাখার মতো করে সাজানো।",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#0f7a52",
+  "lang": "bn",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
