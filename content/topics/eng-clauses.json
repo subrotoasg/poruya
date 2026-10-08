@@ -1,0 +1,263 @@
+{
+  "id": "eng-clauses",
+  "subject": "english",
+  "title": "Clauses in Detail",
+  "subtitle": "Independent, Dependent ও Co-ordinate Clause — Noun, Adjective ও Adverb Clause",
+  "description": "Clause-এর সংজ্ঞা, Independent/Dependent/Co-ordinate Clause, FANBOYES, Noun Clause-এর অবস্থান, Adjective Clause, Adverb Clause এবং সবচেয়ে গুরুত্বপূর্ণ COC (Clash of Clauses) কৌশল — Noun Clause vs Adjective Clause নির্ণয়ের নিয়ম, ভার্সিটি ভর্তি ও BCS প্রশ্নসহ।",
+  "keywords": ["clause", "independent clause", "dependent clause", "noun clause", "adjective clause", "adverb clause", "co-ordinate clause", "FANBOYES", "apposition", "relative pronoun", "relative adverb", "English grammar"],
+  "sections": [
+    {
+      "id": "clause-intro",
+      "title": "Clause — সংজ্ঞা ও প্রকারভেদ",
+      "cards": [
+        {
+          "id": "clause-def",
+          "title": "Definition of Clause",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : Clause বলতে সাধারণত এমন একগুচ্ছ words-কে বুঝায় যেখানে একটি subject ও একটি finite verb থাকে। (তবে আধুনিক ইংরেজিতে একটি শব্দ দিয়েও clause হতে পারে, যেমন — Go, Do, Sleep ইত্যাদি)" },
+            { "t": "kv", "v": [
+              ["(a) If she phones me", "sub=she, finite verb=phones → *অধীন/Dependent clause*"],
+              ["(b) She phones me", "sub=she, finite verb=phones → *স্বাধীন/Independent clause*"]
+            ] },
+            { "t": "tip", "v": "একই গঠন (sub+finite verb) থাকা সত্ত্বেও শুরুতে subordinating conjunction ('If') থাকায় প্রথমটি dependent, আর না থাকায় দ্বিতীয়টি independent।" }
+          ]
+        },
+        {
+          "id": "three-types",
+          "title": "Types of Clauses — তিন প্রকার",
+          "blocks": [
+            { "t": "ul", "v": [
+              "১. Independent clause / principal clause / Main clause (স্বাধীন)",
+              "২. Dependent clause / sub-ordinate clause (অধীন)",
+              "৩. Co-ordinate clause"
+            ] }
+          ]
+        },
+        {
+          "id": "independent-dependent",
+          "title": "Independent ও Dependent Clause",
+          "blocks": [
+            { "t": "p", "v": "*Independent (স্বাধীন) Clause* : যে clause অন্য clause এর সাহায্য ছাড়াই নিজের অর্থ সম্পূর্ণভাবে প্রকাশ করতে পারে। Example: *She phoned me.*" },
+            { "t": "p", "v": "*Dependent (অধীন) Clause* : যে clause অন্য clause এর সাহায্য ছাড়া নিজের অর্থ সম্পূর্ণভাবে প্রকাশ করতে পারে না। Example: *When she phoned me* (অসম্পূর্ণ অর্থ)" },
+            { "t": "kv", "v": [
+              ["As he is sick, he is not present here.", "Dependent cl + Independent clause → Complex Sentence"],
+              ["If he did the task, I could help him.", "Dependent cl + Independent clause → Complex Sentence"]
+            ] },
+            { "t": "tip", "v": "যে clause-এর পূর্বে linker/linking word থাকে, সেই clause সাধারণত dependent হয়। linker সরিয়ে ফেললে dependent clause independent হয়ে যায়। যেমন — \"As he worked hard\" (Dep.) → 'As' সরালে → \"He worked hard\" (Independent)।" }
+          ]
+        },
+        {
+          "id": "linkers",
+          "title": "Sub-ordinate ও Co-ordinate Conjunctions",
+          "blocks": [
+            { "t": "p", "v": "_Sub-ordinate Conjunctions/Linking Words/Linkers_ (Complex sentence গঠনে ব্যবহৃত):" },
+            { "t": "kv", "v": [
+              ["As/since/because", "যেহেতু/কারণ"],
+              ["Although/though/albeit", "যদিও"],
+              ["So that", "যাতে"],
+              ["Lest", "যাতে — না"],
+              ["If", "যদি/-লে"],
+              ["Unless", "যদি — না/না — লে"],
+              ["That/wh-words", "Relative Pronoun ও Relative Adv হিসেবে ব্যবহৃত"]
+            ] },
+            { "t": "tip", "v": "_Co-ordinate Conjunctions_ (Compound sentence গঠনে ব্যবহৃত) — মনে রাখার সংকেত *FANBOYES*: for, and, nor, but, or, yet, else, so" }
+          ]
+        },
+        {
+          "id": "co-ordinate-clause",
+          "title": "Co-ordinate Clause",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যে sentence-এ সাধারণত দুইটি Independent Clause এর মাঝে একটি co-ordinating conjunction (FANBOYES ইত্যাদি) যুক্ত থাকে, তাকে Co-ordinate clause বলে।" },
+            { "t": "p", "v": "Example: *He was sick and he missed the class.* → Compound Sentence" }
+          ]
+        },
+        {
+          "id": "subordinate-subtypes",
+          "title": "Subordinate (Dependent) Clause-এর তিন উপবিভাগ",
+          "blocks": [
+            { "t": "ul", "v": [
+              "১. Noun clause",
+              "২. Adjective clause",
+              "৩. Adverb clause"
+            ] },
+            { "t": "tip", "v": "এগুলো সবই Dependent Clause-এর উপবিভাগ; এদের পূর্বে সাধারণত একটি linker থাকে।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun-clause",
+      "title": "Noun Clause",
+      "cards": [
+        {
+          "id": "noun-clause-def",
+          "title": "Definition of Noun Clause",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যে clause কোনো sentence-এ noun এর কাজ করে, তাকে *noun clause* বলে।" },
+            { "t": "tip", "v": "সাধারণত noun clause গুলোকে *'it'* দ্বারা replace করা যায়, তবে সবক্ষেত্রে নয়। আবার কিছু adverb clause-কেও আপাতদৃষ্টিতে 'it' দ্বারা replace করা যায় — তাই সতর্কভাবে উত্তর দাগাতে হবে।" }
+          ]
+        },
+        {
+          "id": "it-test",
+          "title": "'It' দিয়ে পরীক্ষা করার কৌশল",
+          "blocks": [
+            { "t": "p", "v": "Example (a): *What I have is enough, isn't it?* [N clause/sub/it = \"What I have\"] — tag question \"isn't it\" প্রমাণ করে clause-টিকে 'it' দ্বারা replace করা যায়।" },
+            { "t": "p", "v": "Example (b): *What he had had had little effect, had it?* [Noun clause/sub/it = \"What he had had\"] — tag \"had it?\" প্রমাণ করে।" }
+          ]
+        },
+        {
+          "id": "phrase-vs-clause",
+          "title": "Phrase বনাম Clause — একই অর্থ, ভিন্ন গঠন",
+          "blocks": [
+            {
+              "t": "table",
+              "h": ["PHRASE", "CLAUSE"],
+              "v": [
+                ["My beautiful tall young wife", "My wife is beautiful, tall and young"]
+              ]
+            },
+            { "t": "tip", "v": "Phrase-এ sub+finite verb থাকে না; Clause-এ sub (\"My wife\") + finite verb (\"is\") স্পষ্টভাবে উপস্থিত।" }
+          ]
+        },
+        {
+          "id": "noun-clause-positions",
+          "title": "Positions of Noun Clause",
+          "blocks": [
+            { "t": "note", "k": "Subject/Object হিসেবে", "v": "Verb-এর পূর্বে Subject ও পরে Object হিসেবে noun clause বসে।" },
+            { "t": "note", "k": "Complement হিসেবে", "v": "Verb এর পরে complement হিসেবে noun clause বসে। Example: *This is what he wants.* [is=V, \"what he wants\"=N clause/Comp]" },
+            { "t": "note", "k": "Preposition-এর পরে", "v": "Preposition এর পরে noun clause বসে। Example: *We relied on what you told us.* [rely on = depend, নির্ভর করা]; *She is thinking about where I am.*" }
+          ]
+        },
+        {
+          "id": "relative-adverb",
+          "title": "Relative Adverb — when/where/why/how",
+          "blocks": [
+            { "t": "p", "v": "`when, where, why, how` → এগুলো Relative Adverb হিসেবে কাজ করে (Relative Pronoun-এর মতোই dependent clause যুক্ত করে)।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coc",
+      "title": "COC — Clash of Clauses ⭐⭐⭐",
+      "cards": [
+        {
+          "id": "noun-vs-adjective",
+          "title": "একই গঠন, ভিন্ন পরিচয় — Noun Clause vs Adjective Clause",
+          "blocks": [
+            { "t": "p", "v": "একই রকম দেখতে একটি clause ('who did it', 'that...' ইত্যাদি) প্রসঙ্গভেদে Noun Clause অথবা Adjective Clause হতে পারে।" },
+            { "t": "kv", "v": [
+              ["(a) I know who did it.", "\"who did it\" = verb 'know'-এর Object → *Noun Clause* (কোনো antecedent নেই)"],
+              ["(b) I know the boy who did it.", "antecedent=\"the boy\"(N), \"who did it\" তাকে modify করছে → *Adjective Clause*"]
+            ] },
+            { "t": "tip", "v": "*নির্ণয়ের কৌশল* : clause-টির ঠিক আগে যদি একটি Noun/Antecedent থাকে যাকে এটি describe করছে, তবে Adjective Clause; clause-টি নিজেই verb-এর Object/Subject/Complement হলে (কোনো noun-কে modify না করে), তবে Noun Clause।" }
+          ]
+        },
+        {
+          "id": "apposition-check",
+          "title": "Apposition চেনার কৌশল",
+          "blocks": [
+            { "t": "tip", "v": "Apposition চেক করার সহজ উপায় — দুটি অংশ সমান (=) কিনা দেখা।" },
+            { "t": "p", "v": "Example: *My brother, Rana, is a policeman.* → Rana = My brother এবং My brother = Rana (উভয় দিকেই সত্য হলে এটি Apposition)।" }
+          ]
+        },
+        {
+          "id": "that-rule",
+          "title": "Noun Clause বনাম Adjective Clause ('that' যুক্ত) — নির্ণায়ক নিয়ম",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : Noun-এর পরে 'that' যুক্ত clause-টি যদি Apposition হয়, তবে উক্ত clause-টি *Noun Clause* হবে; আবার apposition না হলে উক্ত clause-টি *Adjective Clause* হবে।" },
+            { "t": "kv", "v": [
+              ["The news that he is dead is fake.", "news = he is dead (Apposition: সমান) → *Noun Clause*"],
+              ["The news that he told us is fake.", "news ≠ he told us (Apposition নয়) → *Adjective Clause*"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adjective-clause",
+      "title": "Adjective Clause",
+      "cards": [
+        {
+          "id": "adjective-clause-examples",
+          "title": "Adjective Clause — উদাহরণ",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["I know the man who phoned you last night.", "antecedent=\"the man\", \"who phoned you last night\"=Adj clause"],
+              ["Rupa bought a book that was written by H. Ahmed.", "antecedent=\"a book\", \"that was written by H. Ahmed\"=Adj clause"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adverb-clause",
+      "title": "Adverb Clause",
+      "cards": [
+        {
+          "id": "adverb-clause-def",
+          "title": "Definition of Adverb(ial) Clause",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যে clause কোনো sentence-এ adverb এর কাজ করে, তাকে *adverbial clause* বলে।" },
+            { "t": "tip", "v": "সাধারণত verb-কে *'কখন', 'কোথায়', 'কিভাবে', 'কেন', 'কতটুকু', 'কতক্ষণ ধরে/যাবত/পর্যন্ত'* ইত্যাদি দ্বারা প্রশ্ন করলে উত্তরে adverbial clause পাওয়া যায়। এছাড়াও *শর্ত, সাদৃশ্য, অসাদৃশ্য, কারণ ও ফলাফল, উদ্দেশ্য, বৈপরীত্য, তুলনা* ইত্যাদি দ্বারাও চেনা যায়।" }
+          ]
+        },
+        {
+          "id": "adverb-clause-examples",
+          "title": "Adverb Clause — উদাহরণ",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["He came when I was there.", "কখন?"],
+              ["He came after I had left.", "কখন?"],
+              ["I will go where you live.", "কোথায়?"],
+              ["Wherever you are your mind is always with me.", "কোথায়?"],
+              ["I will treat you as you did to me.", "কিভাবে? (Manner)"],
+              ["Unless you were there, you would miss the class.", "শর্ত (Condition)"],
+              ["He was given more than his expected.", "তুলনা (Comparison)"],
+              ["Though he was not fit, he got the post.", "বৈপরীত্য (Contrast)"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "অনুশীলন — কুইজ (ভার্সিটি ভর্তি ও BCS)",
+      "cards": [
+        {
+          "id": "quiz-clause-1",
+          "title": "কুইজ ০১ — কোথায় Adverb, কোথায় Adjective",
+          "blocks": [
+            { "t": "quiz", "q": "I will go where he works. 'where he works' is a/an ___.", "v": ["Noun clause", "Adjective clause", "Adverb clause", "Principal clause"], "a": 2, "note": "verb 'go'-কে প্রশ্ন করে উত্তর দেয় (কোথায়?); কোনো antecedent নেই।" },
+            { "t": "quiz", "q": "I will go to the place where he works. 'where he works' is a/an ___.", "v": ["Noun clause", "Adjective clause", "Adverb clause", "Principal clause"], "a": 1, "note": "antecedent \"the place\"(N) উপস্থিত।" },
+            { "t": "quiz", "q": "Come whenever you are free. 'whenever you are free' is a/an ___.", "v": ["Noun clause", "Adjective clause", "Adverb clause", "Principal clause"], "a": 2 },
+            { "t": "quiz", "q": "Rakib plans to join the air force when he leaves college. The underlined part 'when he leaves college' is—", "src": "RU-A, Group-3: 22-23", "v": ["a noun clause", "an adverbial clause", "an adjective clause", "a principal clause"], "a": 1 },
+            { "t": "quiz", "q": "\"I will let you know as soon as the results come out.\" The underlined clause 'as soon as the results come out' is—", "src": "RU-A, Set-2, Group-1 21-22", "v": ["adverbial", "noun", "adjective", "conditional"], "a": 0 }
+          ]
+        },
+        {
+          "id": "quiz-clause-2",
+          "title": "কুইজ ০২ — Noun Clause বনাম Adjective Clause",
+          "blocks": [
+            { "t": "quiz", "q": "I know where he lives. The underlined part is:", "src": "RU:A. 18-19, Law. 12-13", "v": ["an adverbial clause", "a noun clause", "an adjective clause", "the principal clause"], "a": 1, "note": "'where he lives' verb 'know'-এর Object; কোনো antecedent নেই।" },
+            { "t": "quiz", "q": "I know the reason why he came here. The underlined part is a/an ___.", "src": "CU-B1: 24-25", "v": ["adverbial clause", "noun clause", "adjective clause", "None"], "a": 2, "note": "antecedent \"the reason\"(N) উপস্থিত।" },
+            { "t": "quiz", "q": "Which sentence is a use of an adjective clause?", "src": "KU-B. 25-26", "v": ["Take it when you come again", "This is what you want", "This is the boy who stole my pen", "I know that he is a good singer"], "a": 2, "note": "antecedent \"the boy\" উপস্থিত, \"who stole my pen\" তাকে modify করছে।" },
+            { "t": "quiz", "q": "He whom you call uncle has died. The underlined part 'whom you call uncle' is—", "src": "KU-A. 12-13", "v": ["an adjective clause", "a noun clause", "an adverbial clause", "a co-ordinate clause"], "a": 0, "note": "antecedent \"He\"(Pronoun) উপস্থিত।" },
+            { "t": "quiz", "q": "I don't know the reason why she left early. The underlined clause is a/an—", "src": "GST-A: 25-26", "v": ["Noun clause", "Adverbial clause", "Adjective clause", "Main clause"], "a": 2, "note": "antecedent \"the reason\"(N) উপস্থিত।" }
+          ]
+        },
+        {
+          "id": "quiz-clause-3",
+          "title": "কুইজ ০৩ — আরও নির্ণয় অনুশীলন",
+          "blocks": [
+            { "t": "quiz", "q": "I know how he struggled against poverty. The underlined clause is a/an—", "src": "GST-C: 25-26", "v": ["noun clause", "adjective clause", "adverbial clause", "principal clause"], "a": 0, "note": "verb 'know'-এর Object (it দ্বারা replace করা যায়); কোনো antecedent নেই।" },
+            { "t": "quiz", "q": "Identify the underlined clause: \"I know the place where he was born.\"", "src": "GST-A. 22-23", "v": ["Adverbial clause", "Adjective clause", "Noun Clause", "Conditional clause"], "a": 1, "note": "antecedent \"the place\"(N) উপস্থিত।" },
+            { "t": "quiz", "q": "This is where we live. Identify the underlined clause:", "src": "CKRUET. 23-24", "v": ["Adverb clause", "Noun clause", "Principal clause", "Adjective clause"], "a": 1, "note": "'is' verb-এর Complement; antecedent নেই।" },
+            { "t": "quiz", "q": "I know the time \"when he will come.\" Here \"when he will come\" is a—", "src": "DAT. 22-23", "v": ["Adjective clause", "Noun clause", "Adverbial clause", "Principal clause"], "a": 0, "note": "antecedent \"the time\"(N) উপস্থিত।" },
+            { "t": "quiz", "q": "His dream that he will be a B.C.S cadre finally came true. The underlined part is —", "src": "46th BCS", "v": ["a noun clause", "an adjective clause", "an independent clause", "a co-ordinate clause"], "a": 0, "note": "dream = he will be a BCS cadre (Apposition: সমান)।" }
+          ]
+        }
+      ]
+    }
+  ]
+}

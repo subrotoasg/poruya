@@ -4,7 +4,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 4 · **কার্ড:** 28
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-1905-1952/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1905-1952/
 
 ---
 

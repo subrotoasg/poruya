@@ -3,7 +3,7 @@
     "name": "পড়ুয়া",
     "tagline": "এক নজরে মুখস্থ — যেকোনো পরীক্ষার পূর্ণাঙ্গ প্রস্তুতি",
     "description": "বিসিএস, ব্যাংক, মেডিকেল, বিশ্ববিদ্যালয় ভর্তি ও সকল চাকরির পরীক্ষার জন্য সাজানো-গোছানো প্রস্তুতি। বিষয়ভিত্তিক ও টপিকভিত্তিক নোট — রঙে চিহ্নিত গুরুত্বপূর্ণ তথ্য, এক নজরে মনে রাখার মতো করে সাজানো।",
-    "url": "https://porua.example.com",
+    "url": "https://subrotoasg.github.io/poruya",
     "lang": "bn",
     "locale": "bn_BD"
   },
@@ -24,6 +24,22 @@
         "bd-1947-1971",
         "bd-liberation-war",
         "bd-constitution-society"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "ইংরেজি ব্যাকরণ",
+      "short": "ইংরেজি",
+      "tagline": "Sentence Structure, Parts of Speech ও Clause — পরীক্ষার জন্য সাজানো",
+      "description": "মেডিকেল, বিশ্ববিদ্যালয় ভর্তি ও বিসিএস পরীক্ষার জন্য ইংরেজি ব্যাকরণের পূর্ণাঙ্গ নোট — Sentence Elements, Determiners, Noun, Preposition, Phrase, Clause ও Right Forms of Verb।",
+      "accent": "indigo",
+      "icon": "book",
+      "topics": [
+        "eng-sentence-elements",
+        "eng-determiners-nouns",
+        "eng-prepositions",
+        "eng-phrases",
+        "eng-clauses"
       ]
     }
   ]

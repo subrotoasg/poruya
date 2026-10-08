@@ -4,21 +4,31 @@
 
 বাংলা ভাষায় পরীক্ষা-প্রস্তুতির নোট। প্রতিটি টপিকের একটি প্লেইন-টেক্সট (Markdown) সংস্করণ
 আছে — পাতার URL-এর শেষে `index.md` যোগ করলেই পাওয়া যায়।
-সম্পূর্ণ কন্টেন্ট JSON আকারে: https://porua.example.com/content/search-index.json
+সম্পূর্ণ কন্টেন্ট JSON আকারে: https://subrotoasg.github.io/poruya/content/search-index.json
 
 ## বাংলাদেশ বিষয়াবলি
 
 ইতিহাস, সংবিধান, মুক্তিযুদ্ধ ও জাতীয় বিষয়াবলি
 
-- [জাতীয় বিষয়াবলি ও প্রাচীন জনপদ](https://porua.example.com/bangladesh-affairs/bd-national-affairs/index.md): জাতীয় পতাকা, মনোগ্রাম ও জাতীয় সংগীত, 'বাংলাদেশ' নামের বিবর্তন, ভৌগোলিক অবস্থান ও সমুদ্রসীমা, সীমান্তবর্তী জেলা, বাঙালি জাতির উদ্ভব এবং প্রাচীন জনপদ — অনুশীলন প্রশ্নসহ।
-- [প্রাচীন বাংলার ইতিহাস — ১](https://porua.example.com/bangladesh-affairs/bd-ancient-bengal-1/index.md): আলেকজান্ডার, মৌর্য, গুপ্ত, শশাঙ্ক, পাল, সেন ও মুসলিম আক্রমণের সূচনা — প্রাচীন বাংলা ও ভারতবর্ষের ইতিহাসের পূর্ণাঙ্গ নোট।
-- [মধ্যযুগের বাংলা — ১২০৪ থেকে ১৯০৫](https://porua.example.com/bangladesh-affairs/bd-medieval-bengal/index.md): দিল্লি ও বঙ্গের সব রাজবংশ এক নজরে, মামলুক–খলজি–তুঘলক, ইলিয়াস শাহী ও হুসাইন শাহী, বারো ভূঁইয়া, মুঘল ও সুবেদারি, নবাবি আমল, ইউরোপীয়দের আগমন, পলাশী–বক্সার এবং ইংরেজ শাসনের গভর্নর ও আন্দোলনসমূহ।
-- [বাংলার ইতিহাস — ১৯০৫ থেকে ১৯৫২](https://porua.example.com/bangladesh-affairs/bd-1905-1952/index.md): বঙ্গভঙ্গ ও বঙ্গভঙ্গ রদ, স্বদেশি আন্দোলন, মুসলিম লীগ, লক্ষ্ণৌ চুক্তি, লাহোর প্রস্তাব, দেশভাগ এবং ভাষা আন্দোলনের পূর্ণাঙ্গ নোট ও অনুশীলন প্রশ্ন।
-- [পাকিস্তান আমল — ১৯৪৭ থেকে ১৯৭১](https://porua.example.com/bangladesh-affairs/bd-1947-1971/index.md): দেশভাগ ও সিলেট গণভোট, যুক্তফ্রন্ট, ৯২(ক) ধারা, সামরিক শাসন ও মৌলিক গণতন্ত্র, শিক্ষা আন্দোলন, ছয় দফা, আগরতলা মামলা, ঊনসত্তরের গণঅভ্যুত্থান, ভোলা সাইক্লোন ও সত্তরের নির্বাচন — স্বাধীনতার প্রেক্ষাপট।
-- [মুক্তিযুদ্ধ — ১৯৭১](https://porua.example.com/bangladesh-affairs/bd-liberation-war/index.md): ১৯৭১ সালের মার্চের দিনপঞ্জি, অপারেশন সার্চলাইট, মুজিবনগর সরকার, স্বাধীনতার ঘোষণাপত্র, ১১টি সেক্টর ও সেক্টর কমান্ডার, সাত বীরশ্রেষ্ঠ, আন্তর্জাতিক শক্তি, স্বীকৃতি ও মুক্তিযুদ্ধভিত্তিক ভাস্কর্য-গান — পূর্ণাঙ্গ নোট।
-- [সংবিধান, সংসদ ও জনসংখ্যা](https://porua.example.com/bangladesh-affairs/bd-constitution-society/index.md): বাংলাদেশের সংবিধান প্রণয়নের ইতিহাস, ক্ষমতা স্বতন্ত্রীকরণ নীতি, জাতীয় সংসদ, বিল ও মন্ত্রিপরিষদ, পদমর্যাদার ক্রম, স্থানীয় সরকার কাঠামো এবং ক্ষুদ্র নৃগোষ্ঠী — অনুশীলন প্রশ্নসহ পূর্ণাঙ্গ নোট।
+- [জাতীয় বিষয়াবলি ও প্রাচীন জনপদ](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-national-affairs/index.md): জাতীয় পতাকা, মনোগ্রাম ও জাতীয় সংগীত, 'বাংলাদেশ' নামের বিবর্তন, ভৌগোলিক অবস্থান ও সমুদ্রসীমা, সীমান্তবর্তী জেলা, বাঙালি জাতির উদ্ভব এবং প্রাচীন জনপদ — অনুশীলন প্রশ্নসহ।
+- [প্রাচীন বাংলার ইতিহাস — ১](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-ancient-bengal-1/index.md): আলেকজান্ডার, মৌর্য, গুপ্ত, শশাঙ্ক, পাল, সেন ও মুসলিম আক্রমণের সূচনা — প্রাচীন বাংলা ও ভারতবর্ষের ইতিহাসের পূর্ণাঙ্গ নোট।
+- [মধ্যযুগের বাংলা — ১২০৪ থেকে ১৯০৫](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-medieval-bengal/index.md): দিল্লি ও বঙ্গের সব রাজবংশ এক নজরে, মামলুক–খলজি–তুঘলক, ইলিয়াস শাহী ও হুসাইন শাহী, বারো ভূঁইয়া, মুঘল ও সুবেদারি, নবাবি আমল, ইউরোপীয়দের আগমন, পলাশী–বক্সার এবং ইংরেজ শাসনের গভর্নর ও আন্দোলনসমূহ।
+- [বাংলার ইতিহাস — ১৯০৫ থেকে ১৯৫২](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1905-1952/index.md): বঙ্গভঙ্গ ও বঙ্গভঙ্গ রদ, স্বদেশি আন্দোলন, মুসলিম লীগ, লক্ষ্ণৌ চুক্তি, লাহোর প্রস্তাব, দেশভাগ এবং ভাষা আন্দোলনের পূর্ণাঙ্গ নোট ও অনুশীলন প্রশ্ন।
+- [পাকিস্তান আমল — ১৯৪৭ থেকে ১৯৭১](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1947-1971/index.md): দেশভাগ ও সিলেট গণভোট, যুক্তফ্রন্ট, ৯২(ক) ধারা, সামরিক শাসন ও মৌলিক গণতন্ত্র, শিক্ষা আন্দোলন, ছয় দফা, আগরতলা মামলা, ঊনসত্তরের গণঅভ্যুত্থান, ভোলা সাইক্লোন ও সত্তরের নির্বাচন — স্বাধীনতার প্রেক্ষাপট।
+- [মুক্তিযুদ্ধ — ১৯৭১](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-liberation-war/index.md): ১৯৭১ সালের মার্চের দিনপঞ্জি, অপারেশন সার্চলাইট, মুজিবনগর সরকার, স্বাধীনতার ঘোষণাপত্র, ১১টি সেক্টর ও সেক্টর কমান্ডার, সাত বীরশ্রেষ্ঠ, আন্তর্জাতিক শক্তি, স্বীকৃতি ও মুক্তিযুদ্ধভিত্তিক ভাস্কর্য-গান — পূর্ণাঙ্গ নোট।
+- [সংবিধান, সংসদ ও জনসংখ্যা](https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-constitution-society/index.md): বাংলাদেশের সংবিধান প্রণয়নের ইতিহাস, ক্ষমতা স্বতন্ত্রীকরণ নীতি, জাতীয় সংসদ, বিল ও মন্ত্রিপরিষদ, পদমর্যাদার ক্রম, স্থানীয় সরকার কাঠামো এবং ক্ষুদ্র নৃগোষ্ঠী — অনুশীলন প্রশ্নসহ পূর্ণাঙ্গ নোট।
+
+## ইংরেজি ব্যাকরণ
+
+Sentence Structure, Parts of Speech ও Clause — পরীক্ষার জন্য সাজানো
+
+- [Sentence Elements — Subject, Verb, Object](https://subrotoasg.github.io/poruya/english/eng-sentence-elements/index.md): Subject, Verb, Object, Complement and Extension — how to break down any English sentence into its parts, transitive vs intransitive vs linking verbs, double objects vs objective complements, with BCS and admission-test practice.
+- [Determiners ও Noun](https://subrotoasg.github.io/poruya/english/eng-determiners-nouns/index.md): Determiner কী, Pre/Central/Post Determiner, some/all/no/a lot of, few/a few/the few, little/a little/the little, many/much, another/other, demonstrative, এবং Noun-এর প্রকারভেদ (Proper, Common, Collective, Material, Abstract) ও তাদের অবস্থান — admission test ও BCS প্রশ্নসহ।
+- [Prepositions — Place, Movement, Time ও Appropriate Use](https://subrotoasg.github.io/poruya/english/eng-prepositions/index.md): Preposition-এর মৌলিক কনসেপ্ট (preposition বনাম adverb বনাম adjective বনাম conjunction), on/over/above, under/below, between/among, before/in front of, প্রিপোজিশন অফ মুভমেন্ট, প্রিপোজিশন অফ টাইম (since/for, before/after), এবং appropriate preposition ও phrasal verb — admission test ও BCS প্রশ্নসহ।
+- [Phrases in Detail](https://subrotoasg.github.io/poruya/english/eng-phrases/index.md): Phrase-এর সংজ্ঞা, সাত প্রকার Phrase-এর গঠন ও কাজ — Noun Phrase-এর ৯টি অবস্থান, Adjective Phrase-এর ৩টি গঠন, Dangling Modifier সতর্কতা, Adjective vs Adverbial Phrase পার্থক্য এবং BCS ও admission test প্রশ্নসহ।
+- [Clauses in Detail](https://subrotoasg.github.io/poruya/english/eng-clauses/index.md): Clause-এর সংজ্ঞা, Independent/Dependent/Co-ordinate Clause, FANBOYES, Noun Clause-এর অবস্থান, Adjective Clause, Adverb Clause এবং সবচেয়ে গুরুত্বপূর্ণ COC (Clash of Clauses) কৌশল — Noun Clause vs Adjective Clause নির্ণয়ের নিয়ম, ভার্সিটি ভর্তি ও BCS প্রশ্নসহ।
 
 ## Optional
 
-- [সম্পূর্ণ কন্টেন্ট এক ফাইলে](https://porua.example.com/llms-full.txt)
-- [সাইটম্যাপ](https://porua.example.com/sitemap.xml)
+- [সম্পূর্ণ কন্টেন্ট এক ফাইলে](https://subrotoasg.github.io/poruya/llms-full.txt)
+- [সাইটম্যাপ](https://subrotoasg.github.io/poruya/sitemap.xml)

@@ -4,7 +4,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 5 · **কার্ড:** 23
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-national-affairs/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-national-affairs/
 
 ---
 

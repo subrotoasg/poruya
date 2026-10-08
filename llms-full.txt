@@ -8,7 +8,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 5 · **কার্ড:** 23
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-national-affairs/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-national-affairs/
 
 ---
 
@@ -366,7 +366,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 9 · **কার্ড:** 52
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-ancient-bengal-1/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-ancient-bengal-1/
 
 ---
 
@@ -862,7 +862,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 9 · **কার্ড:** 52
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-medieval-bengal/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-medieval-bengal/
 
 ---
 
@@ -1436,7 +1436,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 4 · **কার্ড:** 28
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-1905-1952/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1905-1952/
 
 ---
 
@@ -1971,7 +1971,7 @@ MLA এর পূর্ণরূপ কী?
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 4 · **কার্ড:** 16
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-1947-1971/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1947-1971/
 
 ---
 
@@ -2145,7 +2145,7 @@ MLA এর পূর্ণরূপ কী?
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 5 · **কার্ড:** 26
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-liberation-war/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-liberation-war/
 
 ---
 
@@ -2491,7 +2491,7 @@ MLA এর পূর্ণরূপ কী?
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 5 · **কার্ড:** 24
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-constitution-society/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-constitution-society/
 
 ---
 
@@ -2956,3 +2956,1531 @@ CGPA এর পূর্ণ অভিব্যক্তি হচ্ছে—
 - [ ] মেকলে শিক্ষা কমিশন
 - [x] হান্টার শিক্ষা কমিশন
 - [ ] স্যাডলার শিক্ষা কমিশন
+
+
+---
+
+# Sentence Elements — Subject, Verb, Object
+
+> Subject, Verb, Object, Complement and Extension — how to break down any English sentence into its parts, transitive vs intransitive vs linking verbs, double objects vs objective complements, with BCS and admission-test practice.
+
+**বিষয়:** ইংরেজি ব্যাকরণ · **অধ্যায়:** 5 · **কার্ড:** 15
+
+সূত্র: https://subrotoasg.github.io/poruya/english/eng-sentence-elements/
+
+---
+
+## Sentence Structure — The Big Picture
+
+### Possible Sentence Patterns
+
+একটি ইংরেজি sentence গঠিত হতে পারে এই কয়েকটি প্যাটার্নের যে কোনো একটিতে — প্রতিটিই সমান সঠিক।
+
+- Sub + Verb + Obj / Complement / Extension
+- Sub + Verb + Obj + Complement
+- Sub + Verb + Obj + Extension
+- Sub + Verb + Complement + Extension
+- Sub + Verb + Obj + Complement + Extension
+- Sub + Main Verb (শুধু এই দুটি দিয়েও সম্পূর্ণ sentence হয়)
+
+> 💡 একটি sentence-এ একাধিক Extension পরপর চেইন হয়ে আসতে পারে — S+V+O+Ext+Ext+Ext...।
+
+## Subject, Verb ও Object
+
+### Subject
+
+DEF : যার সম্পর্কে sentence-এ কিছু বলা হয় এবং যার উপর ভিত্তি করে verb-এর রূপ পরিবর্তিত হয়, তাকে subject বলে।
+
+| | |
+|---|---|
+| Rice is eaten by us. | "Rice" = Sub (passive voice-এও subject-ই subject থাকে) |
+| Himu saw a beautiful tall young white lady. | "Himu" = Sub |
+
+> 💡 Subject-Verb Agreement — I/am, You/are, He-She-It/is।
+
+### Subject হিসেবে কী কী বসতে পারে?
+
+- Noun → Rana is a doctor.
+- Pronoun → He is a doctor.
+- Noun phrase → My brother is a doctor.
+- Noun clause → That he is a doctor is known to all.
+- Gerund (V1+ing) → Walking is a good form of exercise.
+- Infinitive (to+V1) → To walk is a good form of exercise.
+
+> 💡 Subject-পদে ব্যবহৃত হলে Gerund ও Infinitive দুটোই কাজ করে Noun-এর মতো।
+
+### Verb
+
+DEF : যে word দ্বারা কোনো কাজ করা, কোনো কিছু হওয়া, কারো কাছে/অধীনে কিছু থাকা বা অবস্থান করা বোঝায়, তাকে verb বলে।
+
+| | |
+|---|---|
+| He studies regularly. | কাজ করা (does) |
+| Shamim phoned the lass. | কাজ করলো (did) |
+| Rupa is veridical. | হওয়া |
+| Wasim has a laptop. | থাকা |
+| Hena is in Jashore. | অবস্থান করা (থাকে) |
+
+> 💡 "is"-এর আভিধানিক অর্থ = হয়/আছে।
+
+### Object
+
+DEF : কোনো sentence-এ verb-কে 'কি' বা 'কাকে' দ্বারা প্রশ্ন করলে যে অংশ পাওয়া যায়, তাকে object বলে।
+
+- Noun → I know Rana.
+- Pronoun → I helped her.
+- Noun phrase → Rajib is my brother.
+- Noun clause → I know that he is a doctor.
+- Gerund (V1+ing) → I hate walking.
+- Infinitive (to+V1) → He wanted to walk / to eat a burger.
+
+## Double Object ও Objective Complement
+
+### Double Object (Indirect + Direct Object)
+
+Verb-কে কাকে/কি দিয়ে প্রশ্ন করলে কখনো কখনো দুটি object পাওয়া যায়।
+
+Hena gave me a pencil. → "me" = Indirect Object (কাকে?); "a pencil" = Direct Object (কি?)
+
+> 💡 এখানে me ≠ a pencil — তারা দুটি ভিন্ন সত্তা বোঝায়, এটাই Double Object-এর চিহ্ন।
+
+| | |
+|---|---|
+| Rule 1 | গ্রহীতা + বস্তু — সরাসরি ক্রমে (Hena gave me a pencil) |
+| Rule 2 | বস্তু + to + গ্রহীতা — ক্রম উল্টালে 'to' যুক্ত হয় (Hena gave a pencil to me) |
+
+### Object + Objective Complement
+
+Hena considered me a brother. → "me"=Obj, "brother"=Objective Complement — এখানে me = brother (দুটোই একই সত্তাকে বোঝায়)।
+
+> 💡 মূল পার্থক্য : Double Object-এ Obj1 ≠ Obj2 (me ≠ a pencil); Object+Complement-এ Obj = Complement (me = brother)।
+
+We elected him MP. → S+V+Obj+Comp (him = MP)
+
+Active ↔ Passive রূপান্তরে Sub ও Obj নিজেদের মধ্যে ভূমিকা বদলায়।
+
+## Transitive, Intransitive ও Linking Verb
+
+### Transitive Verb (সকর্মক ক্রিয়া)
+
+DEF : যে verb-এর object রয়েছে, তাকে transitive verb বলে। 'কি' বা 'কাকে' দিয়ে প্রশ্ন করলে verb-এর object পাওয়া যায়।
+
+| | |
+|---|---|
+| She finished the task. | [S / T.V / Obj] — কি? |
+| Hamim got the letter. | [S / T.V / Obj] — কি? |
+
+### Intransitive Verb (অকর্মক ক্রিয়া)
+
+DEF : যে verb-এর object থাকে না, তাকে intransitive verb বলে। 'কি'/'কাকে' দিয়ে প্রশ্ন করলে object পাওয়া যায় না।
+
+| | |
+|---|---|
+| She cried loudly. | [S / I.T.V / Ext] — loudly একটি extension, object নয় |
+| Hamim goes to college. | [S / I.T.V / Ext] — to college একটি extension, object নয় |
+
+### Object বনাম Subjective Complement — তুলনা
+
+Object : verb-এর পরের অংশটি subject-কে renaming করে না।
+
+| | |
+|---|---|
+| Rupa takes tea. | [S/V/Obj] — Rupa ≠ tea |
+| He plays chess. | [S/V/Obj] |
+
+Subjective Complement : verb-এর পরের অংশটি subject-কেই describe/rename করে।
+
+| | |
+|---|---|
+| Rupa looks cute. | [S/L.V/Sub-comp] — Rupa = cute |
+| Honey tastes sweet. | [S/L.V/Sub-comp] — Honey = sweet |
+
+### Subjective Complement
+
+DEF : কোনো sentence-এ verb-এর পরের অংশটুকু যদি verb-এর আগের অংশটুকুকেই (subject) বুঝায়, তবে verb-এর পরের অংশটুকুকে Subjective Complement বলে।
+
+Formula: S + L.V + Adj/N/Pronoun (sub-comp)
+
+| | |
+|---|---|
+| We are students. | [S/L.V/sub-comp(N)] — We = students |
+| We are talented. | [S/L.V/sub-comp(Adj)] |
+| This pen is mine. | [S/L.V/sub-comp(Pronoun)] — মানে 'my pen' |
+
+### Linking Verb (Copulative Verb / Copula)
+
+DEF : যেসব verb-এর পরে subjective complement থাকে, তাদেরকে linking verb / copulative verb / copula বলে।
+
+| | |
+|---|---|
+| Imran looks smart. | [S/L.V/sub-comp] |
+| He was a doctor. | [S/L.V/sub-comp] |
+
+তালিকা: be verb, become, feel, grow, look, remain, sound, seem, taste, stay, smell, turn ইত্যাদি।
+
+> 💡 NB: এই verb গুলো একমাত্র তখনই linking verb হবে যদি এদের পরে subjective complement থাকে — নাহলে সাধারণ verb হতে পারে।
+
+| | |
+|---|---|
+| Honey tastes sweet. | [sub/L.V/sub-comp] — Honey = sweet → এখানে linking verb |
+| Jui tastes street food. | [sub/T.V/Obj] — street food = Object, Jui ≠ street food → এখানে linking verb নয়, সাধারণ transitive verb |
+
+### 'Grow' — Linking বনাম Transitive
+
+He grew old. → grew = became (অর্থে ব্যবহৃত), old = subjective complement → এখানে grow একটি linking verb।
+
+He grew rice. → grew = cultivated/produced (অর্থে ব্যবহৃত), rice = Object → এখানে grow একটি transitive verb।
+
+> 💡 একই verb প্রসঙ্গভেদে ভিন্ন ভূমিকা নেয় — পরের অংশটি Adjective/complement হলে linking, আর Noun/object হলে transitive।
+
+## অনুশীলন — কুইজ
+
+### কুইজ ০১ — Structure Analysis
+
+She looked cute at her childhood. The words 'cute' and 'at her childhood' are respectively—
+- [ ] Object, complement
+- [x] Complement, extension
+- [ ] Object, extension
+- [ ] Extension, extension
+
+Hena invited us yesterday. 'us' and 'yesterday' are respectively—
+- [ ] Object, complement
+- [ ] Complement, extension
+- [x] Object, extension
+- [ ] Extension, extension
+
+We are in Dhaka. 'in Dhaka' is a/an—
+- [ ] Object
+- [ ] Complement
+- [x] Extension
+- [ ] Subject
+
+She studied hard. 'hard' is a/an—
+- [ ] Subject
+- [ ] Complement
+- [x] Extension
+- [ ] Object
+
+She is hard. 'hard' is a/an—
+- [ ] Subject
+- [x] Complement
+- [ ] Extension
+- [ ] Object
+
+We made him captain two days ago. 'him', 'captain' and 'two days ago' are respectively—
+- [x] Object, complement, extension
+- [ ] Complement, extension, object
+- [ ] Object, extension, complement
+- [ ] Object, extension, extension
+
+She invited me there yesterday. 'me', 'there' and 'yesterday' are respectively—
+- [ ] Object, complement, extension
+- [ ] Complement, extension, object
+- [ ] Object, extension, complement
+- [x] Object, extension, extension
+
+### কুইজ ০২ — Verb Types (Exam Questions)
+
+'Ihana sleeps only for four hours a night.' Here the verb 'sleeps' is—
+- [ ] causative
+- [ ] transitive
+- [x] intransitive
+- [ ] factitive
+
+Father loves me. Here 'loves' is an example of a/an—
+- [ ] intransitive verb
+- [ ] simple verb
+- [ ] auxiliary verb
+- [x] transitive verb
+
+Subject + linking verb + complement can be found in—
+- [x] They do not seem nervous.
+- [ ] The telephone rang.
+- [ ] She does not laugh.
+- [ ] She will buy Anindita a gift.
+
+Choose the correct one to fill in the blank. "I came to England English."
+- [x] to learn
+- [ ] for to learn
+- [ ] to learning
+- [ ] for learning
+
+"The teacher has repeated herself twice." Here 'twice' is a/an—
+- [ ] Adjective
+- [x] Adverb
+- [ ] Preposition
+- [ ] Noun
+
+"Walking is a good exercise." Here "walking" is a—
+- [ ] Verb
+- [ ] Noun
+- [x] Gerund
+- [ ] Adverb
+
+We work every day except Friday. What part of speech is 'except'?
+- [ ] adjective
+- [ ] conjunction
+- [ ] adverb
+- [x] preposition
+
+others is a great deed.
+- [x] To help / Helping
+- [ ] Helped
+- [ ] To helping
+- [ ] To have helped
+
+
+---
+
+# Determiners ও Noun
+
+> Determiner কী, Pre/Central/Post Determiner, some/all/no/a lot of, few/a few/the few, little/a little/the little, many/much, another/other, demonstrative, এবং Noun-এর প্রকারভেদ (Proper, Common, Collective, Material, Abstract) ও তাদের অবস্থান — admission test ও BCS প্রশ্নসহ।
+
+**বিষয়:** ইংরেজি ব্যাকরণ · **অধ্যায়:** 5 · **কার্ড:** 22
+
+সূত্র: https://subrotoasg.github.io/poruya/english/eng-determiners-nouns/
+
+---
+
+## Determiners — পরিচিতি ও প্রকারভেদ
+
+### Determiner আসলে কী?
+
+- কী? → Determiner হল এক বা একাধিক word
+- কোথায় বসে? → এরা সাধারণত noun-এর পূর্বে বসে
+- কেন? → এরা Noun-কে সুনির্দিষ্ট/সীমাবদ্ধ করে
+
+Formula: Det + Noun, অথবা Det + একাধিক Adjective + Noun
+
+> 💡 TG (Traditional Grammar) অনুসারে সব determiner-ই adjective, কিন্তু সব adjective-ই determiner নয়। (MG = Modern Grammar আলাদা দৃষ্টিভঙ্গি রাখে)
+
+### List of Determiners
+
+- সংখ্যা (Number) : some, all, no, a lot of, many, few, 1, 2, 3, 4 ... + countable Noun
+- পরিমাণ (Quantity) : some, all, no, a lot of, little, less, much ... + uncountable Noun
+- Article : a, an, the
+- Possessive Case/Adj (PC) : my, our, your, his, her, their, its, one's, noun's, nouns'
+- Demonstrative : this, these, that, those
+- Distributive : each, every, either, neither
+- ...And many more (এর বাহিরেও আরও অনেক determiner রয়েছে)
+
+> 💡 "some books" (countable), "some water" (uncountable) — some কাজ করে দুই ক্ষেত্রেই।
+
+### Types of Determiners — তিন ভাগে বিভক্ত
+
+Determiners → Pre-Determiner | Central Determiner | Post-Determiner
+
+> 💡 Formula: Pre-D + Central-D + Post-D + N — তিনটিই একসাথে একটি noun-এর আগে ক্রমানুসারে বসতে পারে।
+
+### Pre / Central / Post Determiner — সম্পূর্ণ তালিকা
+
+| বিভাগ | Pre Determiners | Central Determiners | Post Determiners |
+|---|---|---|---|
+| ১ | Multiplicative: single, double, triple, -fold, once, twice, thrice, -times | Possessive Case (PC)/Adj: my, our, your, his, her, their, its etc. | Cardinal number: one, two, three, four, twenty, ninety etc. |
+| ২ | Fractions: half, one-third, two-thirds, three-fifths, six-sevenths etc. | Distributive: each, every, either, neither | Ordinal number: first, second, third, fourth, fifth etc. |
+| ৩ | Intensifiers: what, such, rather, quite | Demonstrative: this, these, that, those | General ordinal: previous, next, last |
+| ৪ | Other words: both, all | Article: a, an, the | Quantifiers: few, little, lot of, number of, much, several, many etc. |
+
+### Some / All / No / A lot of — উভয় ক্ষেত্রেই কাজ করে
+
+RULE : Some, all, no, a lot of — এই determiner গুলো countable ও uncountable উভয় রকমের noun-এর পূর্বেই বসতে পারে।
+
+| | |
+|---|---|
+| I need some books. | (countable noun) |
+| I need some water. | (uncountable noun) |
+| Tina has no book. | (countable noun) |
+| There is no water. | (uncountable noun) |
+
+## Few, Little, Many, Much
+
+### Few এর ব্যবহার (countable noun-এর জন্য negative determiner)
+
+'Few' determiner-টি শুধু countable noun এর পূর্বে বসে। 'Few' অর্থ হল 'খুবই কম' বা 'এতই অল্প সংখ্যক যে নাই বললেই চলে' — তাই এটি একটি negative/semi-negative determiner।
+
+তবে 'a few' এবং 'the few' আবার affirmative অর্থে বসে।
+
+| | |
+|---|---|
+| Few | semi-negative: খুবই কম/নাই বললেই চলে |
+| A few | affirmative: অল্প সংখ্যক তবে না-থাকার সমতুল্য নয় |
+| The few | affirmative: অল্প সংখ্যক এবং তার সবটুকুই |
+
+| | |
+|---|---|
+| I have few friends on facebook. | খুবই কম বন্ধু আছে (নাই বললেই চলে) |
+| I have a few friends on facebook. | কিছু বন্ধু আছে (ইতিবাচকভাবে) |
+
+### 'The few' — পুনরাবৃত্তির নিয়ম
+
+RULE : কোনো sentence-এ প্রথমবার কোনো noun-এর পূর্বে 'a few' থাকলে, এরপর যতবার উক্ত noun-টি থাকবে এবং ঐ noun-টির পূর্বে যতবার 'few' থাকবে, ততবার উক্ত 'few'-এর পূর্বে 'the' বসবে।
+
+Example : I have a few books in my personal library. Even if my best friend wants them, I cannot share the few books with him.
+
+> 💡 প্রথম উল্লেখ: "a few books" [N, 1st use] → পুনরাবৃত্তি: "the few books" [N, 2nd use]।
+
+### Article-এর একই নিয়ম — a vs the
+
+Salman bought a mobile. (প্রথম উল্লেখ → article "a")
+
+He wanted to buy the mobile 6 months ago. (দ্বিতীয়বার উল্লেখ → article "the", কারণ আগেই উল্লেখ হয়েছে)
+
+### Little এর ব্যবহার (uncountable noun-এর জন্য negative determiner)
+
+'Little' determiner-টি শুধু uncountable noun এর পূর্বে বসে — অর্থ 'খুবই কম' বা 'নাই বললেই চলে' (negative/semi-negative)।
+
+তবে 'a little' এবং 'the little' আবার affirmative অর্থে বসে (little-এর parallel counterpart of few)।
+
+| | |
+|---|---|
+| Little | semi-negative: খুবই কম/নাই বললেই চলে |
+| A little | affirmative: অল্প পরিমাণ তবে না-থাকার সমতুল্য নয় |
+| The little | affirmative: অল্প পরিমাণ এবং তার সবটুকুই |
+
+| | |
+|---|---|
+| There is little water in my water pot. | খুব কম পানি আছে, নাই বললেই চলে |
+| I need a little information. | কিছু তথ্য প্রয়োজন, ইতিবাচক |
+
+> 💡 'The little'-এর নিয়মও 'the few'-এর মতোই — প্রথমবার 'a little' এলে, পুনরাবৃত্তিতে 'the little' বসে। Example: As I have a little water in my water pot, I cannot share the little water with anyone.
+
+### Many এবং Much
+
+'Many' determiner-টি শুধু countable noun এর পূর্বে বসে (অর্থ: অনেক সংখ্যক)। 'Much' determiner-টি শুধু uncountable noun এর পূর্বে বসে (অর্থ: প্রচুর পরিমাণ)।
+
+| | |
+|---|---|
+| Many people are not aware of the fact. | (countable: people) |
+| I need much information. | (uncountable: information) |
+
+## Another, Other ও Demonstrative
+
+### Another এর ব্যবহার
+
+'Another' অর্থ হল 'one more' বা 'অতিরিক্ত একটা/আরেকটা' অথবা 'a different one' বা 'ভিন্ন একটা/আরেকটা'।
+
+Structure: another + singular countable noun
+
+- Can I have another cup of coffee?
+- She bought another dress for the party.
+- We need another chair for the guest.
+
+### Other এর ব্যবহার
+
+'other' অর্থ হল 'different' বা 'অন্য' অথবা 'remaining' বা 'বাকি'।
+
+Structure: other + plural countable / uncountable noun
+
+- Other students in the class also passed the exam. (plural countable)
+- I don't like this book. Do you have other books? (plural countable)
+- We must consider other information before making a decision. (uncountable)
+
+### Another vs Other — Common Mistakes
+
+| | |
+|---|---|
+| ✗ I need another books. | ভুল — books বহুবচন, another শুধু singular নেয় |
+| ✓ I need other books. | সঠিক |
+| ✗ Do you have other pen? | ভুল — pen একবচন, other শুধু plural/uncountable নেয় |
+| ✓ Do you have another pen? | সঠিক |
+
+> 💡 another = singular noun সাথে; other = plural/uncountable noun সাথে — উল্টো করলেই ভুল হবে।
+
+### Demonstrative এর ব্যবহার
+
+| | |
+|---|---|
+| This (দিছ) | Singular, নিকটবর্তী কিছু বুঝাতে ("এটা/ইহা") |
+| These (দীজ) | Plural, নিকটবর্তী কিছু বুঝাতে ("এগুলো") |
+| That (দ্যাট) | Singular, দূরবর্তী কিছু বুঝাতে ("ঐটা/উহা") |
+| Those (দৌজ) | Plural, দূরবর্তী কিছু বুঝাতে ("ঐগুলো") |
+
+- I have a pen in my pocket. This pen is expensive. (নিকটবর্তী, singular)
+- The passed days of my early life were really enjoyable. I always miss those days. (দূরবর্তী সময়, plural)
+
+## Noun — সংজ্ঞা ও প্রকারভেদ
+
+### Definition of Noun
+
+| | |
+|---|---|
+| Cambridge Dictionary | A word that refers to a person, place, thing, event, substance or quality. |
+| Oxford Dictionary | A word that refers to a person (such as Ann or doctor), a place (such as Paris or city) or a thing, a quality or an activity (such as plant, joy or tennis). |
+
+### Proper Noun ও Collective Noun
+
+Proper Noun : যে noun দ্বারা নির্দিষ্ট করে কোনো ব্যক্তি, বস্তু, প্রাণী, ব্র্যান্ড, স্থান ইত্যাদির নাম বুঝায়।
+
+Examples: Abdullah, Rupa, Rakib, Mimi, Bangladesh, Dhaka, Rolex, Mirpur etc.
+
+> 💡 Proper noun sentence-এর শুরুতে, শেষে বা মাঝে যেখানেই থাকুক, সেটি capital letter দিয়ে লিখতে হয়।
+
+Collective Noun : যে noun দ্বারা একজাতীয় একাধিক noun-এর সমষ্টি বুঝায়।
+
+Examples: team, class, jury, gang, band, orchestra, committee, board, family, crowd etc.
+
+### Material Noun ও Abstract Noun — সামগ্রিক অর্থের নিয়ম
+
+Material Noun = কোনো পদার্থ/ধাতু/উপাদান (যেমন: gold, air, sugar)। Abstract Noun = কোনো গুণ/ভাব/অনুভূতি (যেমন: honesty, forgiveness, kindness)।
+
+> 💡 গুরুত্বপূর্ণ নিয়ম (T.G./Traditional Grammar) : Material Noun ও Abstract Noun সবসময় সেই পদার্থ/গুণের 'সমগ্র/সামগ্রিক' অর্থ বোঝায়। যদি 'সমগ্র' অর্থে ব্যবহৃত না হয় (অর্থাৎ নির্দিষ্ট পরিমাণ/উদাহরণ বোঝালে), তখন Material N ও Abstract N — দুটোই Common Noun হয়ে যায়।
+
+| | |
+|---|---|
+| Gold is a precious metal. | Material Noun (সমগ্র ধাতু অর্থে) |
+| Her honesty is beyond doubt. | Abstract Noun (honesty একটি গুণ/ভাব) |
+| Forgiveness is a great virtue. | Abstract Noun (একটি গুণ, স্পর্শ করা যায় না) |
+
+### Noun Adjective (একটি Noun অন্য Noun-কে modify করা)
+
+একটি noun যখন আরেকটি noun-এর আগে বসে তাকে modify করে (adjective-এর মতো কাজ করে), তাকে Noun Adjective বলে।
+
+Example: "I saw a college student in front of the college." — প্রথম 'college' = Noun Adjective (student-কে modify করছে); দ্বিতীয় 'college' = সাধারণ Noun।
+
+> 💡 অনুরূপ উদাহরণ — Police officer, University student, National flag ইত্যাদি।
+
+Formula: Determiner + Adjective + Noun (এখানে Noun Adjective, Adjective-এর জায়গায় বসে)।
+
+### Noun-এর কাজ/অবস্থান (Position of Noun)
+
+**Verb-এর পরে Complement হিসেবে** — We are carpenters. [V / comp(N)]; We are students. [Sub/V/comp(N)] (We = students)
+
+**Preposition-এর পরে ১টি word থাকলে** — I know nothing about Rajib. [about=prep / Rajib=noun]
+
+**Adjective-এর পরে ১টি word থাকলে** — They were brilliant students. [brilliant=adj / students=noun]
+
+**Appositive Phrase** — Rana, my brother, will call you. — "my brother" একটি Noun Phrase, যা "Rana"-কে বিশদভাবে পরিচয় দিচ্ছে (Appositive Phrase)।
+
+## অনুশীলন — কুইজ
+
+### কুইজ ০১ — Determiners
+
+The determiner 'some' is used before nouns.
+- [ ] non-count
+- [ ] Singular non-count
+- [ ] Plural non-count
+- [x] Both count and non-count
+
+Rafiq always has problems with his tools.
+- [x] many
+- [ ] much
+- [ ] more
+- [ ] little
+
+I still have money in my pocket.
+- [ ] a few
+- [ ] few
+- [ ] a little
+- [x] many
+
+There is hope of his recovery.
+- [ ] many
+- [x] little
+- [ ] very
+- [ ] few
+
+There is time to waste.
+- [x] little
+- [ ] few
+- [ ] very a few
+- [ ] very a little
+
+He always has problems with his teeth.
+- [ ] very a few
+- [ ] little
+- [ ] much
+- [x] many
+
+### কুইজ ০২ — Another/Other, Noun ও Part of Speech
+
+His attitude was highly appreciated. What is the part of speech of the underlined word 'his'?
+- [ ] adjective
+- [ ] verb
+- [ ] noun
+- [x] pronoun
+
+"We hate the go." Here 'go' is a/an .
+- [ ] Adjective
+- [x] Noun
+- [ ] Adverb
+- [ ] Preposition
+
+"I saw a college student in front of the college." Here the underlined 'college' (first one) is a/an .
+- [ ] Adjective
+- [x] Noun
+- [ ] Adverb
+- [ ] Verb
+
+'Forgiveness is a great virtue.' Which class of noun 'forgiveness' belongs to?
+- [ ] Collective
+- [ ] Common
+- [ ] Material
+- [x] Abstract
+
+The word 'voice' is a/an noun.
+- [ ] Proper noun
+- [x] Common noun
+- [ ] Material noun
+- [ ] Collective noun
+
+"Gold is a precious metal." 'Gold' is a/an noun.
+- [ ] Proper noun
+- [ ] Common noun
+- [x] Material noun
+- [ ] Abstract noun
+
+Which of the following sentences does NOT contain a material noun?
+- [x] Her voice is sweet.
+- [ ] Air is an important element of environment.
+- [ ] Sugar is detrimental to health.
+- [ ] Gold is a precious metal.
+
+The plural form of 'data' is .
+- [ ] datas
+- [ ] datum
+- [ ] all data
+- [x] none of these
+
+### কুইজ ০৩ — Exam Mix
+
+What part of speech is the underlined word of the sentence "I am a university student."?
+- [ ] adverb
+- [ ] pronoun
+- [ ] adjective
+- [x] noun
+
+Choose the correct feminine gender of the word "Drone"—
+- [ ] Dove
+- [ ] Duck
+- [x] Bee
+- [ ] Roe Roe
+
+Choose the word which never has a plural form:
+- [x] information
+- [ ] mouse
+- [ ] woman
+- [ ] inventor
+
+Complete the sentence as generic by words given below: Bengalis are intelligent.
+- [ ] All
+- [ ] Most
+- [ ] Some
+- [x] The
+
+Few men are free from faults. Here 'few' means—
+- [ ] none
+- [x] hardly any
+- [ ] some
+- [ ] not much
+
+I have no kith and kin in this town. It is a—
+- [ ] Prepositional phrase
+- [ ] Conjunctional phrase
+- [ ] Adjective phrase
+- [x] Noun phrase
+
+Which of the following is not a noun?
+- [ ] Friendliness
+- [x] Softly
+- [ ] Livelihood
+- [ ] Responsibility
+
+Are you an early riser? Here 'early' is—
+- [ ] Adverb
+- [ ] Verb
+- [ ] Noun
+- [x] Adjective
+
+
+---
+
+# Prepositions — Place, Movement, Time ও Appropriate Use
+
+> Preposition-এর মৌলিক কনসেপ্ট (preposition বনাম adverb বনাম adjective বনাম conjunction), on/over/above, under/below, between/among, before/in front of, প্রিপোজিশন অফ মুভমেন্ট, প্রিপোজিশন অফ টাইম (since/for, before/after), এবং appropriate preposition ও phrasal verb — admission test ও BCS প্রশ্নসহ।
+
+**বিষয়:** ইংরেজি ব্যাকরণ · **অধ্যায়:** 7 · **কার্ড:** 27
+
+সূত্র: https://subrotoasg.github.io/poruya/english/eng-prepositions/
+
+---
+
+## Preposition — মৌলিক ধারণা
+
+### Rule ১ — Preposition + Prepositional Object
+
+Traditional Grammar অনুসারে : Preposition → Prepositional Object (Noun / Pronoun / Noun Clause / Noun Phrase)
+
+> 💡 Clause হলো এমন একগুচ্ছ words যেখানে Sub ও Finite Verb একসাথে থাকে। Phrase হলো এমন একগুচ্ছ words যেখানে Sub ও Finite Verb একত্রে থাকে না।
+
+| | |
+|---|---|
+| He lives in Dhaka. | in=prep, Dhaka=Noun |
+| She is interested in him. | in=prep, him=Pronoun |
+| She is interested in what I have. | in=prep, "what I have"=Noun Clause (sub+finite verb আছে) |
+| She is interested in this beautiful spot. | in=prep, "this beautiful spot"=Noun Phrase |
+
+### Rule ২ — Preposition যখন Adverb
+
+RULE : Preposition এর পরে N/PN/N clause/N phrase না থাকলে উক্ত Preposition-টি Adverb এর কাজ করে।
+
+> 💡 Verb → কখন/কোথায়/কিভাবে? → Adverb
+
+| | |
+|---|---|
+| He came into my room. | into=Preposition ("my room"=Noun আছে) |
+| He came into. | into=Adverb (পরে কোনো object নেই) |
+| The ship went down the sea. | down=Preposition ("the sea"=Noun) |
+| The ship went down. | down=Adverb |
+
+### Rule ৩ — Determiner ও Noun এর মাঝে Preposition
+
+RULE : Determiner ও Noun এর মাঝে Preposition থাকলে তা Adjective এর কাজ করে।
+
+| | |
+|---|---|
+| Please write to me at the above address. | the(Det) + above(Adj) + address(N) {40th BCS} |
+| The up train went down. | the(Det) + up(Adj, modifying train) + train(N) + down(Adv) |
+
+> 💡 তুলনা করুন — "I saw the nice car." (Det/Adj/N — স্বাভাবিক adjective structure)
+
+### Rule ৪ — Preposition যখন Conjunction
+
+RULE : কোনো preposition দ্বারা দুইটি Simple sentence যুক্ত হলে সেই preposition-টি conjunction এর কাজ করে।
+
+| | |
+|---|---|
+| He came here after independence. | after=preposition; independence=Noun (এক sentence) |
+| He came here after I had left. | after=conjunction; "I had left"=নিজেই একটি Simple Sentence (দুটি sentence যুক্ত) |
+
+### 'Above' — একই শব্দ, চার ভূমিকা
+
+| | |
+|---|---|
+| Please look above the trees. | preposition — above+trees(N) |
+| Please look above. | adverb — পরে কোনো object নেই |
+| Our blessings come from above. | noun — prep('from')+১টি word=Noun |
+| The above sentence is an example of a passive voice. | adjective — the(Det)+above(Adj)+sentence(N) |
+
+## Preposition শেখার ৪টি ভাগ
+
+### চার ভাগে বিভক্ত করে শিখলে সুবিধা
+
+- ১. Prepositions of Positioning/Place (স্থির অবস্থান)
+- ২. Prepositions of Movement (গতিশীল)
+- ৩. Prepositions of Time (সময়)
+- ৪. Others (Appropriate Prepositions/Group Verbs) — মুখস্থ নির্ভর
+
+## Preposition of Positioning/Place (স্থির)
+
+### On, Over, Above — পার্থক্য
+
+| | |
+|---|---|
+| On | স্পর্শ করে উপরে থাকা বুঝালে বসে; তবে কাভার/ঢেকে রাখা মুখ্য উদ্দেশ্য নয় |
+| Over | স্পর্শ করে বা না করে সম্পূর্ণ/আংশিক কাভার করা বা ঢেকে রাখা বোঝাতে |
+| Above | সরাসরি গায়ের উপরে নয়; উচ্চতার দিক থেকে উপরে বা পাশের দিক থেকে উপরে বোঝাতে |
+
+- There is a large clock above the sofa. (উচ্চতার দিক থেকে উপরে, স্পর্শ না করে)
+- There is a red tablecloth over the table. (সম্পূর্ণ cover করে আছে)
+
+### On/Over/Above — Fill in the Blanks
+
+| | |
+|---|---|
+| We played the match 1000 metres the sea level. | above (উচ্চতা) |
+| The umbrella is the table. | on |
+| The umbrella is her head. | over (মাথার উপর কাভার করে ধরা) |
+| Write your address the line. | above |
+| The blue box is the desk. | on |
+| She put the blanket her little son. | over (কম্বল জড়িয়ে/কাভার করে) |
+| Put some butter the piece of bread. | over |
+| She saw the book the bed. | on |
+
+### Under ও Below
+
+| | |
+|---|---|
+| Under | সরাসরি নিচে, প্রায়ই কিছুর দ্বারা ঢাকা/আবৃত অবস্থায় |
+| Below | সাধারণ অর্থে নিচে, সরাসরি স্পর্শ না করেও হতে পারে |
+
+### Between বনাম Among
+
+**Between** — ১. সাধারণভাবে দুইয়ের মধ্যে বুঝাতে। ২. ⭐⭐ দুইয়ের অধিক proper noun এর মধ্যে বুঝাতে। ৩. ⭐⭐⭐ দুইয়ের অধিক ব্যক্তি, কোম্পানি, দেশ ইত্যাদির মধ্যে চুক্তি (treaty) বুঝাতে।
+
+**Among** — ১. সাধারণভাবে দুইয়ের অধিকের মধ্যে বুঝাতে। ২. সংখ্যা উল্লেখ না থেকে শুধু plural কোনো noun বা pronoun উল্লেখ থাকলে (যেমন: among boys)।
+
+### Before ও In front of
+
+| | |
+|---|---|
+| Before | সময়গত অর্থে 'আগে/পূর্বে' (প্রসঙ্গভেদে সামনে অর্থেও) |
+| In front of | স্থানগত অর্থে 'সামনে' — দুই বা তার বেশি ব্যক্তি/বস্তুর আপেক্ষিক অবস্থান |
+
+Example: "The man in green is in front of the man in blue." (queue-এ অবস্থানগত সামনে)
+
+### আরও কিছু Place Preposition — ইলাস্ট্রেটেড
+
+| Preposition | Use (বাংলা অর্থ) |
+|---|---|
+| In | ভিতরে/মধ্যে (এ/য়/তে) |
+| Inside | ভিতরের দিকে |
+| Outside | বাহিরের দিকে |
+| Between | দুইটার মাঝে |
+| Behind | পিছনে/পিছে/পিছনের দিকে |
+| Beside | পাশে/পাশের |
+| Next to | একদম পাশেই |
+| Opposite | বিপরীত দিকে |
+| Near | কাছে |
+
+- The cat is in the box.
+- The boy is inside the room.
+- The dog is outside the house.
+- The ball is between two boxes.
+- The car is behind the tree.
+- The bag is beside the chair.
+- The bank is next to the hospital.
+- The mosque is opposite the school.
+
+## Prepositions of Movement (গতিশীল)
+
+### Across, Through, Into, Out of
+
+| | |
+|---|---|
+| Across | কোনো কিছুর (নদী/রাস্তা) একপাশ থেকে অন্যপাশে পার হওয়া |
+| Through | কোনো কিছুর ভেতর দিয়ে চলা/পার হওয়া |
+| Into | কোনো কিছুর ভেতরে প্রবেশ করা |
+| Out of | কোনো কিছুর বাইরে যাওয়া |
+
+> 💡 "enter into" ভুল গঠন — enter নিজেই সকর্মক (transitive); শুধু "enter the tent" বা "go into the tent" বলা সঠিক।
+
+Example: "They are going into the tent." (into = বাহির থেকে ভিতরে প্রবেশ)
+
+### Up, Down, Onto, Off, Under, Over, Past/Beside
+
+| | |
+|---|---|
+| Up | উপরের দিকে movement |
+| Down | নিচের দিকে movement |
+| Onto | কোনো কিছুর উপরে movement (ওঠা) |
+| Off | কোনো কিছু থেকে নেমে/সরে যাওয়া |
+| Under | কোনো কিছুর নিচ দিয়ে movement |
+| Over | উচ্চতা/বাধার উপর দিয়ে movement |
+| Past/Beside | কোনো কিছুর পাশ দিয়ে চলে যাওয়া |
+
+Example: "A bird flew over our heads." (over = উচ্চতা/বাধার উপর দিয়ে গমন করা)
+
+> 💡 "Over" প্রসঙ্গভেদে Position (ঢেকে রাখা) বা Movement (উপর দিয়ে পার হওয়া) দুই অর্থেই ব্যবহৃত হয়।
+
+## Prepositions of Time
+
+### Time Prepositions সম্পূর্ণ তালিকা
+
+on, in, at, by, within, since, for, during, after, before, till, until etc.
+
+### After বনাম Before
+
+RULE : কোনো সময় শুরুর পূর্বে বুঝাতে before এবং পরে বুঝাতে after ব্যবহার করা হয়।
+
+- He gave up smoking after the birth of his first child.
+- He came here before the war of independence.
+
+### Since বনাম For
+
+RULE : নির্দিষ্ট সময় বিন্দু (a point of time) বুঝাতে since ব্যবহৃত হয়; অনির্দিষ্ট সময়কাল/স্থিতিকাল (a period/duration) বুঝাতে for ব্যবহৃত হয়।
+
+> 💡 Hena has been ill since Friday. (Friday = নির্দিষ্ট সময়বিন্দু)
+
+### On time বনাম In time
+
+| | |
+|---|---|
+| On time (mostly used) | নির্ধারিত সময় অনুযায়ী/ঠিক সময়ে |
+| To time (less used) | নির্ধারিত সময় অনুযায়ী (কম প্রচলিত রূপ) |
+| In time | নির্ধারিত সময়ে নয়, বরং দেরি হওয়ার আগেই/যথাসময়ে |
+
+## Appropriate Preposition ও Phrasal Verb
+
+### যে Verb-গুলোর পরে Preposition বসে না
+
+কিছু verb (যেমন: resemble) নিজেই সম্পূর্ণ সকর্মক অর্থ প্রকাশ করে — তাদের পরে অতিরিক্ত preposition বসানো ভুল।
+
+Example: "Abdullah resembles his father." — 'resemble' স্বয়ং transitive verb, কোনো preposition প্রয়োজন নেই।
+
+### Non-causative বনাম Causative Verb
+
+| Non-causative | Causative |
+|---|---|
+| see | show |
+| learn | teach |
+| know | inform |
+| marry | marry smb off |
+| swear | swear in |
+
+> 💡 swear–swore–sworn (V1-V2-V3). Example: "The thief was sworn in in the classroom." (sworn in = শপথ করানো হয়েছিল — causative; দ্বিতীয় 'in' = preposition, classroom-এর ভিতরে)
+
+### Look-এর বিভিন্ন Phrasal রূপ
+
+| | |
+|---|---|
+| look at | কারো দিকে তাকানো |
+| look for | কোনো কিছু খুঁজে বের করা |
+| look into | তদন্ত করা/অনুসন্ধান করা |
+| look down upon/on | কাউকে তুচ্ছ/হীন মনে করা |
+| look after | কারো দেখাশোনা/তত্ত্বাবধান করা |
+
+### Call-এর বিভিন্ন Phrasal রূপ
+
+| | |
+|---|---|
+| call in | ডেকে আনা |
+| call on | (ব্যক্তির সাথে) সাক্ষাৎ করতে যাওয়া |
+
+### Blind of/to, Lean against
+
+| | |
+|---|---|
+| Blind of | চোখে না দেখা (শারীরিকভাবে অন্ধ) |
+| Blind to | দেখেও না দেখা/উপলব্ধি করতে অস্বীকার করা (আলংকারিক) |
+| Lean against | কোনো কিছুর সাহায্যে শরীর হেলান দেওয়া/ঠেকানো |
+
+### Made of / from / in
+
+| | |
+|---|---|
+| Made from | মূল কাঁচামাল প্রক্রিয়াজাত হয়ে ভিন্ন রূপে তৈরি হলে (কাগজ কাঠ থেকে তৈরি, কিন্তু কাঠের মতো দেখতে নয়) |
+| Made in + স্থান | কোথায় তৈরি হয়েছে বোঝাতে |
+| Made of | উপাদানটি যদি অপরিবর্তিত/স্পষ্টভাবে চেনা যায় (যেমন: table made of wood) |
+
+## অনুশীলন — কুইজ
+
+### কুইজ ০১ — Movement ও Part of Speech
+
+A bird flew our heads.
+- [ ] On
+- [x] Over
+- [ ] Into
+- [ ] Off
+
+Rana jumped the wall when an angry dog chased him.
+- [ ] On
+- [x] Over
+- [ ] Into
+- [ ] Off
+
+The living standard of the poor people is going day by day for inflation.
+- [x] Down
+- [ ] Over
+- [ ] Above
+- [ ] Up
+
+Don't run name and fame.
+- [ ] for
+- [ ] to
+- [ ] towards
+- [x] after
+
+He was going college.
+- [ ] at
+- [x] to
+- [ ] towards
+- [ ] after
+
+The ship went down the sea. Here 'down' is a/an .
+- [ ] Noun
+- [ ] Adjective
+- [x] Preposition
+- [ ] Adverb
+
+### কুইজ ০২ — Time Prepositions
+
+Hena has been ill Friday.
+- [ ] from
+- [ ] for
+- [x] since
+- [ ] by
+
+The train left the station time.
+- [ ] in
+- [ ] against
+- [ ] to
+- [x] on
+
+The Second World War broke in September 1939.
+- [x] out
+- [ ] through
+- [ ] away
+- [ ] in
+
+### কুইজ ০৩ — Appropriate Preposition (Exam Mix)
+
+He can't see properly. He is blind eyes.
+- [ ] to
+- [x] of
+- [ ] from
+- [ ] since
+
+Lean the ladder the wall.
+- [ ] since
+- [ ] before
+- [ ] with
+- [x] against
+
+Paper is made wood.
+- [ ] in
+- [ ] of
+- [x] from
+- [ ] by
+
+The chair was made China.
+- [x] in
+- [ ] of
+- [ ] from
+- [ ] by
+
+Abdullah resembles his father.
+- [ ] like
+- [ ] of
+- [ ] since
+- [x] No preposition needed
+
+The ambassador called the President.
+- [ ] in
+- [x] on
+- [ ] at
+- [ ] none of them
+
+Don't look down the poor.
+- [ ] into
+- [ ] for
+- [ ] of
+- [x] upon
+
+He died cholera.
+- [ ] in
+- [ ] for
+- [x] of
+- [ ] over
+
+The supervisor took him task for his negligence. The correct preposition to fill in the gap is .
+- [ ] for
+- [ ] at
+- [x] to
+- [ ] by
+
+Pantho had left his book the bed before he got his room.
+- [ ] at/into
+- [x] on/out of
+- [ ] in/towards
+- [ ] by/on
+
+
+---
+
+# Phrases in Detail
+
+> Phrase-এর সংজ্ঞা, সাত প্রকার Phrase-এর গঠন ও কাজ — Noun Phrase-এর ৯টি অবস্থান, Adjective Phrase-এর ৩টি গঠন, Dangling Modifier সতর্কতা, Adjective vs Adverbial Phrase পার্থক্য এবং BCS ও admission test প্রশ্নসহ।
+
+**বিষয়:** ইংরেজি ব্যাকরণ · **অধ্যায়:** 6 · **কার্ড:** 18
+
+সূত্র: https://subrotoasg.github.io/poruya/english/eng-phrases/
+
+---
+
+## Phrase — সংজ্ঞা ও প্রকারভেদ
+
+### Definition of Phrase
+
+DEF : Phrase হল এমন একগুচ্ছ words যেখানে subject ও finite verb এক সাথে থাকে না এবং যে শব্দগুচ্ছ parts of speech এর একটিমাত্র unit হিসেবে কাজ করে।
+
+> 💡 Phrase শনাক্ত করার ক্ষেত্রে underline গুরুত্বপূর্ণ ভূমিকা পালন করে — underline-টি একটু বাড়িয়ে বা কমিয়ে দিলে phrase-টি পরিবর্তিত হয়ে যেতে পারে।
+
+Example: My little son has made a beautiful toy.
+
+| | |
+|---|---|
+| "My little son" | N Phrase (Sub) |
+| "has made" | V Phrase |
+| "a beautiful toy" | N Phrase (Obj) |
+
+### Types of Phrases — ৭ প্রকার
+
+- ১. Noun phrase
+- ২. Adjective phrase
+- ৩. Verb phrase
+- ৪. Adverb phrase
+- ৫. Prepositional phrase
+- ৬. Conjunction phrase
+- ৭. Interjection phrase
+
+> 💡 এর বাইরেও Infinitive phrase (N ph/Adj ph/Adv ph রূপে কাজ করে) এবং Participle phrase (Adj ph রূপে কাজ করে) আলোচিত হয় — তবে এগুলো মূলত উপরের ৭ প্রকারেরই বিশেষ রূপ।
+
+## Noun Phrase
+
+### Noun Phrase কী ও এর গঠন
+
+DEF : যে phrase কোনো sentence-এ noun এর কাজ করে তাকে noun phrase বলে।
+
+গঠন (৩টি সাধারণ প্যাটার্ন): Det + N / Prep + N / Adj + N — এর প্রতিটিতে একাধিক word যুক্ত হলে তা Noun Phrase হয়ে যায়। আরেকটি গঠন (apposition সহ): Det + N + prep বা prep + N + prep → Apposition।
+
+### Noun Phrase এর কাজ — Subject, Object, Complement
+
+**১. Subject হিসেবে** — Verb এর পূর্বে subject হিসেবে noun(phrase) বসে। Example: The tall lady phoned the young man. ["The tall lady"=Sub/N Ph]
+
+**২. Object হিসেবে** — Verb এর পরে object হিসেবে noun(phrase) বসে। Example: Sumaiya phoned Abdullah. [Sumaiya=Sub(N), Abdullah=Obj(N); Sumaiya ≠ Abdullah]
+
+**৩. Complement হিসেবে** — Verb এর পরে complement হিসেবে noun(phrase) বসে। Example: We are the doctors of Dhaka Medical College. (We = the doctors...) ["the doctors of Dhaka Medical College"=N Ph/complement]
+
+### Noun Phrase এর কাজ — Det/Prep/Adj এর পরে একাধিক শব্দ
+
+**৪. Determiner এর পরে** — ১টা word → Noun; একাধিক word → Noun Phrase। Example: Rana has some informative rare Indian books. [some=Det, "informative rare Indian books"=N Ph]
+
+**৫. Preposition এর পরে** — ১টা word → Noun; একাধিক word → Noun Phrase। Example: I know nothing about the intention of Rajib. [about=prep, "the intention of Rajib"=N Ph]
+
+**৬. Det ও Prep এর মাঝে** — ১টা word → Noun; একাধিক word → Noun Phrase। Example: The poor people of the villages of our country are the worst sufferers of malnutrition. ["poor people of the villages"=N Ph]
+
+**৭. দুইটি Prep এর মাঝে** — ১টা word → Noun; একাধিক word → Noun Phrase। Example: The young man with his friends of my village is trying to build a new business. ["his friends"=N Ph, with...of এর মাঝে]
+
+**৮. Adjective এর পরে** — ১টা word → Noun; একাধিক word → Noun Phrase। Example: They were the brilliant student of this institution. ["student of this institution"=N Ph]
+
+### ৯. Noun Phrase এর কাজ — Apposition হিসেবে
+
+RULE : Noun/Noun phrase এর apposition হিসেবেও noun বসে।
+
+> 💡 Apposition হলো noun-এর সেই পরিচয়, যা সাধারণত কমা (,) দ্বারা পৃথক করা থাকে।
+
+| | |
+|---|---|
+| Our captain, Shanto, is a good batter. | Shanto = N/Apposition (Our captain = Shanto) |
+| Shakil, my brother, is a cop. | "my brother" = N Ph/Apposition |
+| My brother, Shakil, is a doctor. | Shakil = N/Apposition |
+
+## Adjective Phrase
+
+### Definition of Adjective Phrase
+
+DEF : যে phrase কোনো sentence-এ noun অথবা pronoun সম্পর্কে তথ্য দেয়, তাকে adjective phrase বলে।
+
+> 💡 সাধারণত adjective phrase-টি noun বা pronoun এর ঠিক পূর্বে বা পরে বসে এবং উক্ত noun বা pronoun-টি সম্পর্কে তথ্য দিয়ে থাকে। N/PN → Adj Phrase ← N/PN
+
+### Structure ১ — prep + ... + noun
+
+Noun/pronoun এর ঠিক পূর্বে বা পরে বসে। Formula: prep + ... + noun
+
+| | |
+|---|---|
+| The boy with his mother came to me. | "with his mother" = Adj Ph, modifies "the boy"(N) |
+| With a purse at her hand, Sumi came here. | "With a purse at her hand" = Adj Ph, modifies "Sumi"(N) — যদিও phrase-টি sentence-এর শুরুতে, তবুও পরের noun-কেই modify করছে |
+
+### Structure ২ — (V1+ing)/V3 + ... + N/Adv
+
+N/PN এর ঠিক পূর্বে বা পরে V3/(V1+ing) দিয়ে শুরু হয়ে noun/adv দিয়ে শেষ হলে। Formula: (V1+ing)/V3 + ... + N/Adv
+
+| | |
+|---|---|
+| The cars made in Japan are costly. | "made in Japan" = Adj Ph, modifies "The cars" |
+| I saw Rukaiya sitting alone. | "sitting alone" = Adj Ph, modifies "Rukaiya" |
+| I have read the book written by H. Ahmed. | "written by H. Ahmed" = Adj Ph, modifies "the book" |
+
+> 💡 ⚠️ Dangling/Misplaced Modifier : Adjective phrase সবসময় সবচেয়ে কাছের noun/pronoun-কেই modify করে। ভুল স্থানে রাখলে ভুল অর্থ দাঁড়ায়। যেমন — "Rupa came to my office wearing a saree." এখানে ভুলভাবে বোঝাতে পারে 'office wearing a saree'। সঠিক গঠন: "Wearing a saree, Rupa came to my office."
+
+### Structure ৩ ⭐⭐⭐ — Linking Verb + and/but/or + একাধিক Adjective
+
+Linking verb এর পরে and/but/or দ্বারা একাধিক adjective যুক্ত হয়ে adjective phrase গঠন করে।
+
+| | |
+|---|---|
+| Humayun is sick and busy. | "sick and busy" = Adj Ph; is=Linking Verb |
+| She looks coy and cute. | "coy and cute" = Adj Ph; looks=Linking Verb |
+
+> 💡 তুলনা করুন — I eat rice. (eat=সাধারণ verb, rice=Object, I ≠ rice) বনাম I am sick. (am=Linking Verb, sick=Complement, I = sick)।
+
+## Verb Phrase ও Adverbial Phrase
+
+### Verb Phrase
+
+DEF : একগুচ্ছ word একত্রিত হয়ে যখন অখণ্ডভাবে verb এর কাজ করে, তখন তাকে verbal/verb phrase বলে।
+
+> 💡 গঠন — যে কোনো একটি finite verb + (auxiliary verbs/particles)...
+
+| | |
+|---|---|
+| You should have had the book. | "should have had" = V Phrase |
+| Yousuf is writing a book on grammar. | "is writing" = V Phrase |
+| He looks down upon the poor. | "looks down upon" = V Phrase (phrasal verb) |
+
+### Adverbial Phrase
+
+DEF : যে phrase কোনো sentence-এ adverb এর কাজ করে, তাকে adverbial phrase বলে।
+
+> 💡 সাধারণত verb-কে 'কখন', 'কোথায়', 'কিভাবে', 'কেন', 'কতটুকু', 'কতক্ষণ ধরে/যাবত/পর্যন্ত', 'কতবার', 'কার সাথে', 'কোথা থেকে' ইত্যাদি দ্বারা প্রশ্ন করলে উত্তরে adverbial phrase পাওয়া যায়। Formula: prep + ... + N
+
+- He met me in the morning. (কখন?)
+- Hena went to Japan two days ago. (কখন?)
+- I will go to his house. (কোথায়?)
+- The box is on the table. (কোথায়?)
+- She smiled in a friendly way. (কিভাবে?)
+- I love them very much. (কতটুকু?)
+
+### Adjective Phrase বনাম Adverbial Phrase — একই শব্দ, ভিন্ন কাজ
+
+| | |
+|---|---|
+| (a) The blue box is on the table. | "on the table" = Adv Ph (modifies verb "is" — কোথায় আছে?) |
+| (b) The box on the table is blue. | "on the table" = Adj Ph (modifies noun "box" — কোন বক্সটি?) |
+
+> 💡 মনে রাখতে হবে, adjective phrase এবং adverbial phrase দেখতে একই রকম মনে হলেও তাদের কাজ ভিন্ন — phrase-টি noun/pronoun modify করছে (adjective) না verb modify করছে (adverbial), তা বুঝতে হবে অর্থের মাধ্যমে।
+
+### Practice — একই Sentence-এ নেস্টেড Phrase চেনা
+
+Sentence : "The young man on the top of the list in my hand is the best chef of our whole area."
+
+> 💡 একটি দীর্ঘ sentence-এ একাধিক ধরনের phrase একসাথে থাকতে পারে — boundary বুঝে প্রতিটি অংশ আলাদাভাবে চিহ্নিত করতে হয়।
+
+| | |
+|---|---|
+| "The young man on the top of the list in my hand" | Noun Phrase (সম্পূর্ণ অংশটি Subject) |
+| "on the top of the list in my hand" | Adjective Phrase ("the young man"-কে modify করছে) |
+| "the best chef of our whole area" | Noun Phrase (Complement) |
+| "of our whole area" | Adjective Phrase ("chef"-কে modify করছে) |
+
+## Prepositional, Conjunction ও Interjection Phrase
+
+### Prepositional Phrase
+
+DEF : যে phrase কোনো sentence-এ preposition এর কাজ করে, তাকে prepositional phrase বলে।
+
+> 💡 দুইভাবে গঠিত হতে পারে — ১. prep দিয়ে শুরু ও prep দিয়ে শেষ (Prep + ... + prep), ২. prep দিয়ে শুরু, noun দিয়ে শেষ (Prep + ... + N — এটি প্রসঙ্গভেদে Adjective/Adverb-এর ভূমিকাও নিতে পারে)।
+
+| | |
+|---|---|
+| He met me in order to discuss the matter. | "in order to" = Prep Ph (prep দিয়ে শুরু, prep('to') দিয়ে শেষ) |
+| Tamim got GPA-5 by dint of hard labour. | "by dint of" = Prep Ph, অর্থ 'দ্বারা/মাধ্যমে' |
+| She phoned me with a view to talk to me. | "with a view to" = Prep Ph, অর্থ 'উদ্দেশ্যে' |
+
+### Conjunction Phrase
+
+DEF : একগুচ্ছ words একত্রিত হয়ে যখন conjunction এর কাজ করে, তাকে conjunction phrase বলে।
+
+উদাহরণ: as if, as though, as well as, as soon as, as a result, not only...but also, either...or, neither...nor, and not, but not, so that, in order that, no sooner...than, hardly...when, scarcely...when ইত্যাদি।
+
+| | |
+|---|---|
+| We eat so that we can survive. | "so that" = Conjunction Ph |
+| She pretends as if she were Katrina Kaif. | "as if" = Conjunction Ph |
+| I as well as he am going to start a new business. | "as well as" = Conjunction Ph |
+
+### Interjection Phrase
+
+DEF : যে phrase দ্বারা আবেগ তথা সুখ, দুঃখ, ঘৃণা, বিস্ময়, রাগ ইত্যাদি প্রকাশ পায়, তাকে interjection phrase বলে।
+
+> 💡 গঠন সাধারণত — Phrase + !
+
+- Oh my gosh! She is not here.
+- What a pity! You are really a moron.
+- How terrible! The face is shapeless.
+
+## অনুশীলন — কুইজ
+
+### কুইজ ০১ — Phrase Identification
+
+We are waiting for the bus. 'for the bus' is a/an .
+- [ ] noun phrase
+- [ ] adjective phrase
+- [x] adverb phrase
+- [ ] verb phrase
+
+"The young man on the top of the list in my hand is the best chef of our whole area." The underlined part "on the top of the list in my hand" is a/an .
+- [ ] Noun phrase
+- [x] Adjective phrase
+- [ ] Adverb phrase
+- [ ] Prepositional phrase
+
+The box on the table is blue. 'on the table' is a/an .
+- [ ] Noun phrase
+- [x] Adjective phrase
+- [ ] Adverb phrase
+- [ ] Prepositional phrase
+
+"To walk in the morning is a good habit." The underlined part is a/an .
+- [x] Noun phrase
+- [ ] Adjective phrase
+- [ ] Adverbial phrase
+- [ ] Participle phrase
+
+"A project to help the poor has been taken." The underlined part "to help the poor" is a/an .
+- [ ] Noun phrase
+- [x] Adjective phrase
+- [ ] Adverbial phrase
+- [ ] Participle phrase
+
+For a moment the girl stood speechless. 'For a moment' is a/an .
+- [ ] Adjective
+- [ ] Noun phrase
+- [x] Adverbial phrase
+- [ ] Determiner
+
+
+---
+
+# Clauses in Detail
+
+> Clause-এর সংজ্ঞা, Independent/Dependent/Co-ordinate Clause, FANBOYES, Noun Clause-এর অবস্থান, Adjective Clause, Adverb Clause এবং সবচেয়ে গুরুত্বপূর্ণ COC (Clash of Clauses) কৌশল — Noun Clause vs Adjective Clause নির্ণয়ের নিয়ম, ভার্সিটি ভর্তি ও BCS প্রশ্নসহ।
+
+**বিষয়:** ইংরেজি ব্যাকরণ · **অধ্যায়:** 6 · **কার্ড:** 20
+
+সূত্র: https://subrotoasg.github.io/poruya/english/eng-clauses/
+
+---
+
+## Clause — সংজ্ঞা ও প্রকারভেদ
+
+### Definition of Clause
+
+DEF : Clause বলতে সাধারণত এমন একগুচ্ছ words-কে বুঝায় যেখানে একটি subject ও একটি finite verb থাকে। (তবে আধুনিক ইংরেজিতে একটি শব্দ দিয়েও clause হতে পারে, যেমন — Go, Do, Sleep ইত্যাদি)
+
+| | |
+|---|---|
+| (a) If she phones me | sub=she, finite verb=phones → অধীন/Dependent clause |
+| (b) She phones me | sub=she, finite verb=phones → স্বাধীন/Independent clause |
+
+> 💡 একই গঠন (sub+finite verb) থাকা সত্ত্বেও শুরুতে subordinating conjunction ('If') থাকায় প্রথমটি dependent, আর না থাকায় দ্বিতীয়টি independent।
+
+### Types of Clauses — তিন প্রকার
+
+- ১. Independent clause / principal clause / Main clause (স্বাধীন)
+- ২. Dependent clause / sub-ordinate clause (অধীন)
+- ৩. Co-ordinate clause
+
+### Independent ও Dependent Clause
+
+Independent (স্বাধীন) Clause : যে clause অন্য clause এর সাহায্য ছাড়াই নিজের অর্থ সম্পূর্ণভাবে প্রকাশ করতে পারে। Example: She phoned me.
+
+Dependent (অধীন) Clause : যে clause অন্য clause এর সাহায্য ছাড়া নিজের অর্থ সম্পূর্ণভাবে প্রকাশ করতে পারে না। Example: When she phoned me (অসম্পূর্ণ অর্থ)
+
+| | |
+|---|---|
+| As he is sick, he is not present here. | Dependent cl + Independent clause → Complex Sentence |
+| If he did the task, I could help him. | Dependent cl + Independent clause → Complex Sentence |
+
+> 💡 যে clause-এর পূর্বে linker/linking word থাকে, সেই clause সাধারণত dependent হয়। linker সরিয়ে ফেললে dependent clause independent হয়ে যায়। যেমন — "As he worked hard" (Dep.) → 'As' সরালে → "He worked hard" (Independent)।
+
+### Sub-ordinate ও Co-ordinate Conjunctions
+
+Sub-ordinate Conjunctions/Linking Words/Linkers (Complex sentence গঠনে ব্যবহৃত):
+
+| | |
+|---|---|
+| As/since/because | যেহেতু/কারণ |
+| Although/though/albeit | যদিও |
+| So that | যাতে |
+| Lest | যাতে — না |
+| If | যদি/-লে |
+| Unless | যদি — না/না — লে |
+| That/wh-words | Relative Pronoun ও Relative Adv হিসেবে ব্যবহৃত |
+
+> 💡 Co-ordinate Conjunctions (Compound sentence গঠনে ব্যবহৃত) — মনে রাখার সংকেত FANBOYES: for, and, nor, but, or, yet, else, so
+
+### Co-ordinate Clause
+
+DEF : যে sentence-এ সাধারণত দুইটি Independent Clause এর মাঝে একটি co-ordinating conjunction (FANBOYES ইত্যাদি) যুক্ত থাকে, তাকে Co-ordinate clause বলে।
+
+Example: He was sick and he missed the class. → Compound Sentence
+
+### Subordinate (Dependent) Clause-এর তিন উপবিভাগ
+
+- ১. Noun clause
+- ২. Adjective clause
+- ৩. Adverb clause
+
+> 💡 এগুলো সবই Dependent Clause-এর উপবিভাগ; এদের পূর্বে সাধারণত একটি linker থাকে।
+
+## Noun Clause
+
+### Definition of Noun Clause
+
+DEF : যে clause কোনো sentence-এ noun এর কাজ করে, তাকে noun clause বলে।
+
+> 💡 সাধারণত noun clause গুলোকে 'it' দ্বারা replace করা যায়, তবে সবক্ষেত্রে নয়। আবার কিছু adverb clause-কেও আপাতদৃষ্টিতে 'it' দ্বারা replace করা যায় — তাই সতর্কভাবে উত্তর দাগাতে হবে।
+
+### 'It' দিয়ে পরীক্ষা করার কৌশল
+
+Example (a): What I have is enough, isn't it? [N clause/sub/it = "What I have"] — tag question "isn't it" প্রমাণ করে clause-টিকে 'it' দ্বারা replace করা যায়।
+
+Example (b): What he had had had little effect, had it? [Noun clause/sub/it = "What he had had"] — tag "had it?" প্রমাণ করে।
+
+### Phrase বনাম Clause — একই অর্থ, ভিন্ন গঠন
+
+| PHRASE | CLAUSE |
+|---|---|
+| My beautiful tall young wife | My wife is beautiful, tall and young |
+
+> 💡 Phrase-এ sub+finite verb থাকে না; Clause-এ sub ("My wife") + finite verb ("is") স্পষ্টভাবে উপস্থিত।
+
+### Positions of Noun Clause
+
+**Subject/Object হিসেবে** — Verb-এর পূর্বে Subject ও পরে Object হিসেবে noun clause বসে।
+
+**Complement হিসেবে** — Verb এর পরে complement হিসেবে noun clause বসে। Example: This is what he wants. [is=V, "what he wants"=N clause/Comp]
+
+**Preposition-এর পরে** — Preposition এর পরে noun clause বসে। Example: We relied on what you told us. [rely on = depend, নির্ভর করা]; She is thinking about where I am.
+
+### Relative Adverb — when/where/why/how
+
+when, where, why, how → এগুলো Relative Adverb হিসেবে কাজ করে (Relative Pronoun-এর মতোই dependent clause যুক্ত করে)।
+
+## COC — Clash of Clauses ⭐⭐⭐
+
+### একই গঠন, ভিন্ন পরিচয় — Noun Clause vs Adjective Clause
+
+একই রকম দেখতে একটি clause ('who did it', 'that...' ইত্যাদি) প্রসঙ্গভেদে Noun Clause অথবা Adjective Clause হতে পারে।
+
+| | |
+|---|---|
+| (a) I know who did it. | "who did it" = verb 'know'-এর Object → Noun Clause (কোনো antecedent নেই) |
+| (b) I know the boy who did it. | antecedent="the boy"(N), "who did it" তাকে modify করছে → Adjective Clause |
+
+> 💡 নির্ণয়ের কৌশল : clause-টির ঠিক আগে যদি একটি Noun/Antecedent থাকে যাকে এটি describe করছে, তবে Adjective Clause; clause-টি নিজেই verb-এর Object/Subject/Complement হলে (কোনো noun-কে modify না করে), তবে Noun Clause।
+
+### Apposition চেনার কৌশল
+
+> 💡 Apposition চেক করার সহজ উপায় — দুটি অংশ সমান (=) কিনা দেখা।
+
+Example: My brother, Rana, is a policeman. → Rana = My brother এবং My brother = Rana (উভয় দিকেই সত্য হলে এটি Apposition)।
+
+### Noun Clause বনাম Adjective Clause ('that' যুক্ত) — নির্ণায়ক নিয়ম
+
+RULE : Noun-এর পরে 'that' যুক্ত clause-টি যদি Apposition হয়, তবে উক্ত clause-টি Noun Clause হবে; আবার apposition না হলে উক্ত clause-টি Adjective Clause হবে।
+
+| | |
+|---|---|
+| The news that he is dead is fake. | news = he is dead (Apposition: সমান) → Noun Clause |
+| The news that he told us is fake. | news ≠ he told us (Apposition নয়) → Adjective Clause |
+
+## Adjective Clause
+
+### Adjective Clause — উদাহরণ
+
+| | |
+|---|---|
+| I know the man who phoned you last night. | antecedent="the man", "who phoned you last night"=Adj clause |
+| Rupa bought a book that was written by H. Ahmed. | antecedent="a book", "that was written by H. Ahmed"=Adj clause |
+
+## Adverb Clause
+
+### Definition of Adverb(ial) Clause
+
+DEF : যে clause কোনো sentence-এ adverb এর কাজ করে, তাকে adverbial clause বলে।
+
+> 💡 সাধারণত verb-কে 'কখন', 'কোথায়', 'কিভাবে', 'কেন', 'কতটুকু', 'কতক্ষণ ধরে/যাবত/পর্যন্ত' ইত্যাদি দ্বারা প্রশ্ন করলে উত্তরে adverbial clause পাওয়া যায়। এছাড়াও শর্ত, সাদৃশ্য, অসাদৃশ্য, কারণ ও ফলাফল, উদ্দেশ্য, বৈপরীত্য, তুলনা ইত্যাদি দ্বারাও চেনা যায়।
+
+### Adverb Clause — উদাহরণ
+
+| | |
+|---|---|
+| He came when I was there. | কখন? |
+| He came after I had left. | কখন? |
+| I will go where you live. | কোথায়? |
+| Wherever you are your mind is always with me. | কোথায়? |
+| I will treat you as you did to me. | কিভাবে? (Manner) |
+| Unless you were there, you would miss the class. | শর্ত (Condition) |
+| He was given more than his expected. | তুলনা (Comparison) |
+| Though he was not fit, he got the post. | বৈপরীত্য (Contrast) |
+
+## অনুশীলন — কুইজ (ভার্সিটি ভর্তি ও BCS)
+
+### কুইজ ০১ — কোথায় Adverb, কোথায় Adjective
+
+I will go where he works. 'where he works' is a/an .
+- [ ] Noun clause
+- [ ] Adjective clause
+- [x] Adverb clause
+- [ ] Principal clause
+
+I will go to the place where he works. 'where he works' is a/an .
+- [ ] Noun clause
+- [x] Adjective clause
+- [ ] Adverb clause
+- [ ] Principal clause
+
+Come whenever you are free. 'whenever you are free' is a/an .
+- [ ] Noun clause
+- [ ] Adjective clause
+- [x] Adverb clause
+- [ ] Principal clause
+
+Rakib plans to join the air force when he leaves college. The underlined part 'when he leaves college' is—
+- [ ] a noun clause
+- [x] an adverbial clause
+- [ ] an adjective clause
+- [ ] a principal clause
+
+"I will let you know as soon as the results come out." The underlined clause 'as soon as the results come out' is—
+- [x] adverbial
+- [ ] noun
+- [ ] adjective
+- [ ] conditional
+
+### কুইজ ০২ — Noun Clause বনাম Adjective Clause
+
+I know where he lives. The underlined part is:
+- [ ] an adverbial clause
+- [x] a noun clause
+- [ ] an adjective clause
+- [ ] the principal clause
+
+I know the reason why he came here. The underlined part is a/an .
+- [ ] adverbial clause
+- [ ] noun clause
+- [x] adjective clause
+- [ ] None
+
+Which sentence is a use of an adjective clause?
+- [ ] Take it when you come again
+- [ ] This is what you want
+- [x] This is the boy who stole my pen
+- [ ] I know that he is a good singer
+
+He whom you call uncle has died. The underlined part 'whom you call uncle' is—
+- [x] an adjective clause
+- [ ] a noun clause
+- [ ] an adverbial clause
+- [ ] a co-ordinate clause
+
+I don't know the reason why she left early. The underlined clause is a/an—
+- [ ] Noun clause
+- [ ] Adverbial clause
+- [x] Adjective clause
+- [ ] Main clause
+
+### কুইজ ০৩ — আরও নির্ণয় অনুশীলন
+
+I know how he struggled against poverty. The underlined clause is a/an—
+- [x] noun clause
+- [ ] adjective clause
+- [ ] adverbial clause
+- [ ] principal clause
+
+Identify the underlined clause: "I know the place where he was born."
+- [ ] Adverbial clause
+- [x] Adjective clause
+- [ ] Noun Clause
+- [ ] Conditional clause
+
+This is where we live. Identify the underlined clause:
+- [ ] Adverb clause
+- [x] Noun clause
+- [ ] Principal clause
+- [ ] Adjective clause
+
+I know the time "when he will come." Here "when he will come" is a—
+- [x] Adjective clause
+- [ ] Noun clause
+- [ ] Adverbial clause
+- [ ] Principal clause
+
+His dream that he will be a B.C.S cadre finally came true. The underlined part is —
+- [x] a noun clause
+- [ ] an adjective clause
+- [ ] an independent clause
+- [ ] a co-ordinate clause

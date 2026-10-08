@@ -11,4 +11,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://porua.example.com/sitemap.xml
+Sitemap: https://subrotoasg.github.io/poruya/sitemap.xml

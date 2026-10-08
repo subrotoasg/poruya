@@ -1,0 +1,318 @@
+{
+  "id": "eng-determiners-nouns",
+  "subject": "english",
+  "title": "Determiners ও Noun",
+  "subtitle": "Determiner-এর প্রকারভেদ, few/little/many/much, article agreement ও Noun-এর শ্রেণিবিভাগ",
+  "description": "Determiner কী, Pre/Central/Post Determiner, some/all/no/a lot of, few/a few/the few, little/a little/the little, many/much, another/other, demonstrative, এবং Noun-এর প্রকারভেদ (Proper, Common, Collective, Material, Abstract) ও তাদের অবস্থান — admission test ও BCS প্রশ্নসহ।",
+  "keywords": ["determiners", "article", "few little many much", "another other", "demonstrative", "noun types", "proper common collective material abstract noun", "possessive case", "English grammar"],
+  "sections": [
+    {
+      "id": "determiners-basics",
+      "title": "Determiners — পরিচিতি ও প্রকারভেদ",
+      "cards": [
+        {
+          "id": "what-is-determiner",
+          "title": "Determiner আসলে কী?",
+          "blocks": [
+            { "t": "ul", "v": [
+              "*কী?* → Determiner হল এক বা একাধিক word",
+              "*কোথায় বসে?* → এরা সাধারণত noun-এর পূর্বে বসে",
+              "*কেন?* → এরা Noun-কে সুনির্দিষ্ট/সীমাবদ্ধ করে"
+            ] },
+            { "t": "p", "v": "Formula: `Det + Noun`, অথবা `Det + একাধিক Adjective + Noun`" },
+            { "t": "tip", "v": "TG (Traditional Grammar) অনুসারে সব determiner-ই *adjective*, কিন্তু সব adjective-ই determiner নয়। (MG = Modern Grammar আলাদা দৃষ্টিভঙ্গি রাখে)" }
+          ]
+        },
+        {
+          "id": "list-of-determiners",
+          "title": "List of Determiners",
+          "blocks": [
+            { "t": "ul", "v": [
+              "*সংখ্যা (Number)* : some, all, no, a lot of, many, few, 1, 2, 3, 4 ... + countable Noun",
+              "*পরিমাণ (Quantity)* : some, all, no, a lot of, little, less, much ... + uncountable Noun",
+              "*Article* : a, an, the",
+              "*Possessive Case/Adj (PC)* : my, our, your, his, her, their, its, one's, noun's, nouns'",
+              "*Demonstrative* : this, these, that, those",
+              "*Distributive* : each, every, either, neither",
+              "...And many more (এর বাহিরেও আরও অনেক determiner রয়েছে)"
+            ] },
+            { "t": "tip", "v": "\"some books\" (countable), \"some water\" (uncountable) — *some* কাজ করে দুই ক্ষেত্রেই।" }
+          ]
+        },
+        {
+          "id": "types-diagram",
+          "title": "Types of Determiners — তিন ভাগে বিভক্ত",
+          "blocks": [
+            { "t": "flow", "v": ["Determiners", "Pre-Determiner | Central Determiner | Post-Determiner"] },
+            { "t": "tip", "v": "Formula: `Pre-D + Central-D + Post-D + N` — তিনটিই একসাথে একটি noun-এর আগে ক্রমানুসারে বসতে পারে।" }
+          ]
+        },
+        {
+          "id": "types-table",
+          "title": "Pre / Central / Post Determiner — সম্পূর্ণ তালিকা",
+          "blocks": [
+            {
+              "t": "table",
+              "h": ["বিভাগ", "Pre Determiners", "Central Determiners", "Post Determiners"],
+              "v": [
+                ["১", "*Multiplicative*: single, double, triple, -fold, once, twice, thrice, -times", "*Possessive Case (PC)/Adj*: my, our, your, his, her, their, its etc.", "*Cardinal number*: one, two, three, four, twenty, ninety etc."],
+                ["২", "*Fractions*: half, one-third, two-thirds, three-fifths, six-sevenths etc.", "*Distributive*: each, every, either, neither", "*Ordinal number*: first, second, third, fourth, fifth etc."],
+                ["৩", "*Intensifiers*: what, such, rather, quite", "*Demonstrative*: this, these, that, those", "*General ordinal*: previous, next, last"],
+                ["৪", "*Other words*: both, all", "*Article*: a, an, the", "*Quantifiers*: few, little, lot of, number of, much, several, many etc."]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "some-all-no",
+          "title": "Some / All / No / A lot of — উভয় ক্ষেত্রেই কাজ করে",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : Some, all, no, a lot of — এই determiner গুলো countable ও uncountable উভয় রকমের noun-এর পূর্বেই বসতে পারে।" },
+            { "t": "kv", "v": [
+              ["I need some books.", "(countable noun)"],
+              ["I need some water.", "(uncountable noun)"],
+              ["Tina has no book.", "(countable noun)"],
+              ["There is no water.", "(uncountable noun)"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "few-little-many-much",
+      "title": "Few, Little, Many, Much",
+      "cards": [
+        {
+          "id": "few-usage",
+          "title": "Few এর ব্যবহার (countable noun-এর জন্য negative determiner)",
+          "blocks": [
+            { "t": "p", "v": "*'Few'* determiner-টি শুধু *countable noun* এর পূর্বে বসে। 'Few' অর্থ হল 'খুবই কম' বা 'এতই অল্প সংখ্যক যে নাই বললেই চলে' — তাই এটি একটি *negative/semi-negative determiner*।" },
+            { "t": "p", "v": "তবে *'a few'* এবং *'the few'* আবার *affirmative* অর্থে বসে।" },
+            { "t": "kv", "v": [
+              ["Few", "semi-negative: খুবই কম/নাই বললেই চলে"],
+              ["A few", "affirmative: অল্প সংখ্যক তবে না-থাকার সমতুল্য নয়"],
+              ["The few", "affirmative: অল্প সংখ্যক এবং তার সবটুকুই"]
+            ] },
+            { "t": "kv", "v": [
+              ["I have few friends on facebook.", "খুবই কম বন্ধু আছে (নাই বললেই চলে)"],
+              ["I have a few friends on facebook.", "কিছু বন্ধু আছে (ইতিবাচকভাবে)"]
+            ] }
+          ]
+        },
+        {
+          "id": "the-few-rule",
+          "title": "'The few' — পুনরাবৃত্তির নিয়ম",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : কোনো sentence-এ প্রথমবার কোনো noun-এর পূর্বে *'a few'* থাকলে, এরপর যতবার উক্ত noun-টি থাকবে এবং ঐ noun-টির পূর্বে যতবার *'few'* থাকবে, ততবার উক্ত 'few'-এর পূর্বে *'the'* বসবে।" },
+            { "t": "p", "v": "*Example* : I have a few books in my personal library. Even if my best friend wants them, I cannot share the few books with him." },
+            { "t": "tip", "v": "প্রথম উল্লেখ: \"a few books\" [N, 1st use] → পুনরাবৃত্তি: \"the few books\" [N, 2nd use]।" }
+          ]
+        },
+        {
+          "id": "article-repeat",
+          "title": "Article-এর একই নিয়ম — a vs the",
+          "blocks": [
+            { "t": "p", "v": "*Salman bought a mobile.* (প্রথম উল্লেখ → article \"a\")" },
+            { "t": "p", "v": "*He wanted to buy the mobile 6 months ago.* (দ্বিতীয়বার উল্লেখ → article \"the\", কারণ আগেই উল্লেখ হয়েছে)" }
+          ]
+        },
+        {
+          "id": "little-usage",
+          "title": "Little এর ব্যবহার (uncountable noun-এর জন্য negative determiner)",
+          "blocks": [
+            { "t": "p", "v": "*'Little'* determiner-টি শুধু *uncountable noun* এর পূর্বে বসে — অর্থ 'খুবই কম' বা 'নাই বললেই চলে' (negative/semi-negative)।" },
+            { "t": "p", "v": "তবে *'a little'* এবং *'the little'* আবার *affirmative* অর্থে বসে (little-এর parallel counterpart of few)।" },
+            { "t": "kv", "v": [
+              ["Little", "semi-negative: খুবই কম/নাই বললেই চলে"],
+              ["A little", "affirmative: অল্প পরিমাণ তবে না-থাকার সমতুল্য নয়"],
+              ["The little", "affirmative: অল্প পরিমাণ এবং তার সবটুকুই"]
+            ] },
+            { "t": "kv", "v": [
+              ["There is little water in my water pot.", "খুব কম পানি আছে, নাই বললেই চলে"],
+              ["I need a little information.", "কিছু তথ্য প্রয়োজন, ইতিবাচক"]
+            ] },
+            { "t": "tip", "v": "'The little'-এর নিয়মও 'the few'-এর মতোই — প্রথমবার 'a little' এলে, পুনরাবৃত্তিতে 'the little' বসে। Example: As I have a little water in my water pot, I cannot share the little water with anyone." }
+          ]
+        },
+        {
+          "id": "many-much",
+          "title": "Many এবং Much",
+          "blocks": [
+            { "t": "p", "v": "*'Many'* determiner-টি শুধু *countable noun* এর পূর্বে বসে (অর্থ: অনেক সংখ্যক)। *'Much'* determiner-টি শুধু *uncountable noun* এর পূর্বে বসে (অর্থ: প্রচুর পরিমাণ)।" },
+            { "t": "kv", "v": [
+              ["Many people are not aware of the fact.", "(countable: people)"],
+              ["I need much information.", "(uncountable: information)"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "another-other-demonstrative",
+      "title": "Another, Other ও Demonstrative",
+      "cards": [
+        {
+          "id": "another",
+          "title": "Another এর ব্যবহার",
+          "blocks": [
+            { "t": "p", "v": "*'Another'* অর্থ হল 'one more' বা 'অতিরিক্ত একটা/আরেকটা' অথবা 'a different one' বা 'ভিন্ন একটা/আরেকটা'।" },
+            { "t": "p", "v": "Structure: `another + singular countable noun`" },
+            { "t": "ul", "v": [
+              "Can I have another cup of coffee?",
+              "She bought another dress for the party.",
+              "We need another chair for the guest."
+            ] }
+          ]
+        },
+        {
+          "id": "other",
+          "title": "Other এর ব্যবহার",
+          "blocks": [
+            { "t": "p", "v": "*'other'* অর্থ হল 'different' বা 'অন্য' অথবা 'remaining' বা 'বাকি'।" },
+            { "t": "p", "v": "Structure: `other + plural countable / uncountable noun`" },
+            { "t": "ul", "v": [
+              "Other students in the class also passed the exam. (plural countable)",
+              "I don't like this book. Do you have other books? (plural countable)",
+              "We must consider other information before making a decision. (uncountable)"
+            ] }
+          ]
+        },
+        {
+          "id": "another-vs-other-mistakes",
+          "title": "Another vs Other — Common Mistakes",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["✗ I need another books.", "ভুল — books বহুবচন, another শুধু singular নেয়"],
+              ["✓ I need other books.", "সঠিক"],
+              ["✗ Do you have other pen?", "ভুল — pen একবচন, other শুধু plural/uncountable নেয়"],
+              ["✓ Do you have another pen?", "সঠিক"]
+            ] },
+            { "t": "tip", "v": "*another* = singular noun সাথে; *other* = plural/uncountable noun সাথে — উল্টো করলেই ভুল হবে।" }
+          ]
+        },
+        {
+          "id": "demonstrative",
+          "title": "Demonstrative এর ব্যবহার",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["This (দিছ)", "Singular, নিকটবর্তী কিছু বুঝাতে (\"এটা/ইহা\")"],
+              ["These (দীজ)", "Plural, নিকটবর্তী কিছু বুঝাতে (\"এগুলো\")"],
+              ["That (দ্যাট)", "Singular, দূরবর্তী কিছু বুঝাতে (\"ঐটা/উহা\")"],
+              ["Those (দৌজ)", "Plural, দূরবর্তী কিছু বুঝাতে (\"ঐগুলো\")"]
+            ] },
+            { "t": "ul", "v": [
+              "I have a pen in my pocket. This pen is expensive. (নিকটবর্তী, singular)",
+              "The passed days of my early life were really enjoyable. I always miss those days. (দূরবর্তী সময়, plural)"
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun-types",
+      "title": "Noun — সংজ্ঞা ও প্রকারভেদ",
+      "cards": [
+        {
+          "id": "noun-def",
+          "title": "Definition of Noun",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Cambridge Dictionary", "A word that refers to a person, place, thing, event, substance or quality."],
+              ["Oxford Dictionary", "A word that refers to a person (such as Ann or doctor), a place (such as Paris or city) or a thing, a quality or an activity (such as plant, joy or tennis)."]
+            ] }
+          ]
+        },
+        {
+          "id": "proper-collective",
+          "title": "Proper Noun ও Collective Noun",
+          "blocks": [
+            { "t": "p", "v": "*Proper Noun* : যে noun দ্বারা নির্দিষ্ট করে কোনো ব্যক্তি, বস্তু, প্রাণী, ব্র্যান্ড, স্থান ইত্যাদির নাম বুঝায়।" },
+            { "t": "p", "v": "Examples: Abdullah, Rupa, Rakib, Mimi, Bangladesh, Dhaka, Rolex, Mirpur etc." },
+            { "t": "tip", "v": "Proper noun sentence-এর শুরুতে, শেষে বা মাঝে যেখানেই থাকুক, সেটি *capital letter* দিয়ে লিখতে হয়।" },
+            { "t": "p", "v": "*Collective Noun* : যে noun দ্বারা একজাতীয় একাধিক noun-এর সমষ্টি বুঝায়।" },
+            { "t": "p", "v": "Examples: team, class, jury, gang, band, orchestra, committee, board, family, crowd etc." }
+          ]
+        },
+        {
+          "id": "material-abstract",
+          "title": "Material Noun ও Abstract Noun — সামগ্রিক অর্থের নিয়ম",
+          "blocks": [
+            { "t": "p", "v": "*Material Noun* = কোনো পদার্থ/ধাতু/উপাদান (যেমন: gold, air, sugar)। *Abstract Noun* = কোনো গুণ/ভাব/অনুভূতি (যেমন: honesty, forgiveness, kindness)।" },
+            { "t": "tip", "v": "*গুরুত্বপূর্ণ নিয়ম (T.G./Traditional Grammar)* : Material Noun ও Abstract Noun সবসময় সেই পদার্থ/গুণের *'সমগ্র/সামগ্রিক'* অর্থ বোঝায়। যদি 'সমগ্র' অর্থে ব্যবহৃত না হয় (অর্থাৎ নির্দিষ্ট পরিমাণ/উদাহরণ বোঝালে), তখন Material N ও Abstract N — দুটোই *Common Noun* হয়ে যায়।" },
+            { "t": "kv", "v": [
+              ["Gold is a precious metal.", "Material Noun (সমগ্র ধাতু অর্থে)"],
+              ["Her honesty is beyond doubt.", "Abstract Noun (honesty একটি গুণ/ভাব)"],
+              ["Forgiveness is a great virtue.", "Abstract Noun (একটি গুণ, স্পর্শ করা যায় না)"]
+            ] }
+          ]
+        },
+        {
+          "id": "noun-adjective",
+          "title": "Noun Adjective (একটি Noun অন্য Noun-কে modify করা)",
+          "blocks": [
+            { "t": "p", "v": "একটি noun যখন আরেকটি noun-এর আগে বসে তাকে modify করে (adjective-এর মতো কাজ করে), তাকে *Noun Adjective* বলে।" },
+            { "t": "p", "v": "Example: \"I saw a college student in front of the college.\" — প্রথম *'college'* = Noun Adjective (student-কে modify করছে); দ্বিতীয় *'college'* = সাধারণ Noun।" },
+            { "t": "tip", "v": "অনুরূপ উদাহরণ — Police officer, University student, National flag ইত্যাদি।" },
+            { "t": "p", "v": "Formula: `Determiner + Adjective + Noun` (এখানে Noun Adjective, Adjective-এর জায়গায় বসে)।" }
+          ]
+        },
+        {
+          "id": "noun-position",
+          "title": "Noun-এর কাজ/অবস্থান (Position of Noun)",
+          "blocks": [
+            { "t": "note", "k": "Verb-এর পরে Complement হিসেবে", "v": "*We are carpenters.* [V / comp(N)]; *We are students.* [Sub/V/comp(N)] (We = students)" },
+            { "t": "note", "k": "Preposition-এর পরে ১টি word থাকলে", "v": "*I know nothing about Rajib.* [about=prep / Rajib=noun]" },
+            { "t": "note", "k": "Adjective-এর পরে ১টি word থাকলে", "v": "*They were brilliant students.* [brilliant=adj / students=noun]" },
+            { "t": "note", "k": "Appositive Phrase", "v": "*Rana, my brother, will call you.* — \"my brother\" একটি Noun Phrase, যা \"Rana\"-কে বিশদভাবে পরিচয় দিচ্ছে (Appositive Phrase)।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "অনুশীলন — কুইজ",
+      "cards": [
+        {
+          "id": "quiz-det-1",
+          "title": "কুইজ ০১ — Determiners",
+          "blocks": [
+            { "t": "quiz", "q": "The determiner 'some' is used before ___ nouns.", "src": "Sylhet Agricultural University 2016-17, Set 1", "v": ["non-count", "Singular non-count", "Plural non-count", "Both count and non-count"], "a": 3 },
+            { "t": "quiz", "q": "Rafiq always has ___ problems with his tools.", "src": "GST (JKKNIU-D 18-19)", "v": ["many", "much", "more", "little"], "a": 0, "note": "problems=plural countable noun → many+countable" },
+            { "t": "quiz", "q": "I still have ___ money in my pocket.", "src": "Sylhet Agricultural University 2018-19, Set B", "v": ["a few", "few", "a little", "many"], "a": 3, "note": "কোর্সের শেখানো নিয়ম অনুসারে — ভিন্ন reference 'much' কেও সঠিক মনে করতে পারে, কারণ money সাধারণত uncountable।" },
+            { "t": "quiz", "q": "There is ___ hope of his recovery.", "src": "Hajee Mohammad Danesh University 2019-20", "v": ["many", "little", "very", "few"], "a": 1, "note": "hope=uncountable noun → little+uncountable" },
+            { "t": "quiz", "q": "There is ___ time to waste.", "v": ["little", "few", "very a few", "very a little"], "a": 0, "note": "time=uncountable noun সাধারণ অর্থে → little" },
+            { "t": "quiz", "q": "He always has ___ problems with his teeth.", "v": ["very a few", "little", "much", "many"], "a": 3, "note": "problems=plural countable noun → many" }
+          ]
+        },
+        {
+          "id": "quiz-det-2",
+          "title": "কুইজ ০২ — Another/Other, Noun ও Part of Speech",
+          "blocks": [
+            { "t": "quiz", "q": "His attitude was highly appreciated. What is the part of speech of the underlined word 'his'?", "src": "Sylhet Agricultural University 2017-18, Set 2", "v": ["adjective", "verb", "noun", "pronoun"], "a": 3, "note": "Exam board-ভেদে উত্তর ভিন্ন হতে পারে — Traditional Grammar-এ Possessive Adj/Determiner হিসেবেও গণ্য হয়।" },
+            { "t": "quiz", "q": "\"We hate the go.\" Here 'go' is a/an ___.", "v": ["Adjective", "Noun", "Adverb", "Preposition"], "a": 1, "note": "the(Det) + go(N) — 'go' এখানে প্রথাগত নিয়ম/রীতি অর্থে Noun।" },
+            { "t": "quiz", "q": "\"I saw a college student in front of the college.\" Here the underlined 'college' (first one) is a/an ___.", "src": "Practice Section", "v": ["Adjective", "Noun", "Adverb", "Verb"], "a": 1, "note": "'college' আদতে Noun, এখানে student-কে modify করছে (Noun Adjective)।" },
+            { "t": "quiz", "q": "'Forgiveness is a great virtue.' Which class of noun 'forgiveness' belongs to?", "src": "Khulna University 2019-20, Unit A", "v": ["Collective", "Common", "Material", "Abstract"], "a": 3 },
+            { "t": "quiz", "q": "The word 'voice' is a/an ___ noun.", "v": ["Proper noun", "Common noun", "Material noun", "Collective noun"], "a": 1 },
+            { "t": "quiz", "q": "\"Gold is a precious metal.\" 'Gold' is a/an ___ noun.", "v": ["Proper noun", "Common noun", "Material noun", "Abstract noun"], "a": 2 },
+            { "t": "quiz", "q": "Which of the following sentences does NOT contain a material noun?", "v": ["Her voice is sweet.", "Air is an important element of environment.", "Sugar is detrimental to health.", "Gold is a precious metal."], "a": 0 },
+            { "t": "quiz", "q": "The plural form of 'data' is ___.", "src": "Cluster Agricultural University Admission Test 2019-20", "v": ["datas", "datum", "all data", "none of these"], "a": 3, "note": "'Data' নিজেই 'datum'-এর plural রূপ — এটি already plural।" }
+          ]
+        },
+        {
+          "id": "quiz-det-3",
+          "title": "কুইজ ০৩ — Exam Mix",
+          "blocks": [
+            { "t": "quiz", "q": "What part of speech is the underlined word of the sentence \"I am a university student.\"?", "src": "Sher-e-Bangla Agricultural University 2012-13", "v": ["adverb", "pronoun", "adjective", "noun"], "a": 3, "note": "'university' মূলত Noun, এখানে student-কে modify করছে (Noun Adjective)।" },
+            { "t": "quiz", "q": "Choose the correct feminine gender of the word \"Drone\"—", "src": "Jashore University of Science & Technology 2019-20", "v": ["Dove", "Duck", "Bee", "Roe Roe"], "a": 2, "note": "Drone = পুরুষ মৌমাছি; feminine = Bee" },
+            { "t": "quiz", "q": "Choose the word which never has a plural form:", "src": "Medical Admission Test 2023-24", "v": ["information", "mouse", "woman", "inventor"], "a": 0, "note": "information = uncountable, কখনো plural হয় না" },
+            { "t": "quiz", "q": "Complete the sentence as generic by words given below: ___ Bengalis are intelligent.", "src": "Medical Admission Test 2024-25", "v": ["All", "Most", "Some", "The"], "a": 3, "note": "জাতীয়তা generic/সামগ্রিকভাবে বোঝাতে 'The + plural nationality noun' ব্যবহৃত হয়।" },
+            { "t": "quiz", "q": "Few men are free from faults. Here 'few' means—", "src": "Medical Admission Test 2023-24", "v": ["none", "hardly any", "some", "not much"], "a": 1, "note": "few = semi-negative, অর্থ 'hardly any' (নাই বললেই চলে)" },
+            { "t": "quiz", "q": "I have no kith and kin in this town. It is a—", "src": "Medical Admission Test 2022-23", "v": ["Prepositional phrase", "Conjunctional phrase", "Adjective phrase", "Noun phrase"], "a": 3, "note": "no(Det) + 'kith and kin'(Noun Phrase, অর্থ আত্মীয়স্বজন)" },
+            { "t": "quiz", "q": "Which of the following is not a noun?", "src": "Medical Admission Test 2021-22", "v": ["Friendliness", "Softly", "Livelihood", "Responsibility"], "a": 1, "note": "Softly = Adverb (-ly); অন্যগুলো Abstract Noun (-ness, -hood, -ity)" },
+            { "t": "quiz", "q": "Are you an early riser? Here 'early' is—", "src": "Medical Admission Test 2020-21", "v": ["Adverb", "Verb", "Noun", "Adjective"], "a": 3, "note": "an(Det) + early(Adj) + riser(N)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

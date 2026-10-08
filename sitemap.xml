@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://porua.example.com/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-national-affairs/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-ancient-bengal-1/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-medieval-bengal/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-1905-1952/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-1947-1971/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-liberation-war/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://porua.example.com/bangladesh-affairs/bd-constitution-society/</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/english/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-national-affairs/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-ancient-bengal-1/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-medieval-bengal/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1905-1952/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-1947-1971/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-liberation-war/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-constitution-society/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/english/eng-sentence-elements/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/english/eng-determiners-nouns/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/english/eng-prepositions/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/english/eng-phrases/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://subrotoasg.github.io/poruya/english/eng-clauses/</loc><lastmod>2026-10-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>

@@ -1,0 +1,240 @@
+{
+  "id": "eng-sentence-elements",
+  "subject": "english",
+  "title": "Sentence Elements — Subject, Verb, Object",
+  "subtitle": "Structure analysis for admission & job exams",
+  "description": "Subject, Verb, Object, Complement and Extension — how to break down any English sentence into its parts, transitive vs intransitive vs linking verbs, double objects vs objective complements, with BCS and admission-test practice.",
+  "keywords": ["sentence pattern", "subject verb object", "transitive verb", "intransitive verb", "linking verb", "subjective complement", "objective complement", "extension", "English grammar"],
+  "sections": [
+    {
+      "id": "structure-overview",
+      "title": "Sentence Structure — The Big Picture",
+      "cards": [
+        {
+          "id": "patterns",
+          "title": "Possible Sentence Patterns",
+          "blocks": [
+            { "t": "p", "v": "একটি ইংরেজি sentence গঠিত হতে পারে এই কয়েকটি প্যাটার্নের যে কোনো একটিতে — প্রতিটিই *সমান সঠিক*।" },
+            { "t": "ul", "v": [
+              "Sub + Verb + Obj / Complement / Extension",
+              "Sub + Verb + Obj + Complement",
+              "Sub + Verb + Obj + Extension",
+              "Sub + Verb + Complement + Extension",
+              "Sub + Verb + Obj + Complement + Extension",
+              "Sub + Main Verb (শুধু এই দুটি দিয়েও সম্পূর্ণ sentence হয়)"
+            ] },
+            { "t": "tip", "v": "একটি sentence-এ একাধিক Extension পরপর চেইন হয়ে আসতে পারে — `S+V+O+Ext+Ext+Ext...`।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subject-verb-object",
+      "title": "Subject, Verb ও Object",
+      "cards": [
+        {
+          "id": "subject-def",
+          "title": "Subject",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যার সম্পর্কে sentence-এ কিছু বলা হয় এবং যার উপর ভিত্তি করে verb-এর রূপ পরিবর্তিত হয়, তাকে *subject* বলে।" },
+            { "t": "kv", "v": [
+              ["Rice is eaten by us.", "\"Rice\" = Sub (passive voice-এও subject-ই subject থাকে)"],
+              ["Himu saw a beautiful tall young white lady.", "\"Himu\" = Sub"]
+            ] },
+            { "t": "tip", "v": "Subject-Verb Agreement — *I/am*, *You/are*, *He-She-It/is*।" }
+          ]
+        },
+        {
+          "id": "subject-forms",
+          "title": "Subject হিসেবে কী কী বসতে পারে?",
+          "blocks": [
+            { "t": "ul", "v": [
+              "*Noun* → Rana is a doctor.",
+              "*Pronoun* → He is a doctor.",
+              "*Noun phrase* → My brother is a doctor.",
+              "*Noun clause* → That he is a doctor is known to all.",
+              "*Gerund* (V1+ing) → Walking is a good form of exercise.",
+              "*Infinitive* (to+V1) → To walk is a good form of exercise."
+            ] },
+            { "t": "tip", "v": "Subject-পদে ব্যবহৃত হলে Gerund ও Infinitive দুটোই কাজ করে *Noun*-এর মতো।" }
+          ]
+        },
+        {
+          "id": "verb-def",
+          "title": "Verb",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যে word দ্বারা কোনো কাজ করা, কোনো কিছু হওয়া, কারো কাছে/অধীনে কিছু থাকা বা অবস্থান করা বোঝায়, তাকে *verb* বলে।" },
+            { "t": "kv", "v": [
+              ["He studies regularly.", "কাজ করা (does)"],
+              ["Shamim phoned the lass.", "কাজ করলো (did)"],
+              ["Rupa is veridical.", "হওয়া"],
+              ["Wasim has a laptop.", "থাকা"],
+              ["Hena is in Jashore.", "অবস্থান করা (থাকে)"]
+            ] },
+            { "t": "tip", "v": "\"is\"-এর আভিধানিক অর্থ = *হয়/আছে*।" }
+          ]
+        },
+        {
+          "id": "object-def",
+          "title": "Object",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : কোনো sentence-এ verb-কে _'কি'_ বা _'কাকে'_ দ্বারা প্রশ্ন করলে যে অংশ পাওয়া যায়, তাকে *object* বলে।" },
+            { "t": "ul", "v": [
+              "*Noun* → I know Rana.",
+              "*Pronoun* → I helped her.",
+              "*Noun phrase* → Rajib is my brother.",
+              "*Noun clause* → I know that he is a doctor.",
+              "*Gerund* (V1+ing) → I hate walking.",
+              "*Infinitive* (to+V1) → He wanted to walk / to eat a burger."
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "object-complement",
+      "title": "Double Object ও Objective Complement",
+      "cards": [
+        {
+          "id": "double-object",
+          "title": "Double Object (Indirect + Direct Object)",
+          "blocks": [
+            { "t": "p", "v": "Verb-কে _কাকে/কি_ দিয়ে প্রশ্ন করলে কখনো কখনো *দুটি object* পাওয়া যায়।" },
+            { "t": "p", "v": "*Hena gave me a pencil.* → \"me\" = Indirect Object (কাকে?); \"a pencil\" = Direct Object (কি?)" },
+            { "t": "tip", "v": "এখানে _me ≠ a pencil_ — তারা দুটি ভিন্ন সত্তা বোঝায়, এটাই Double Object-এর চিহ্ন।" },
+            { "t": "kv", "v": [
+              ["Rule 1", "গ্রহীতা + বস্তু — সরাসরি ক্রমে (Hena gave me a pencil)"],
+              ["Rule 2", "বস্তু + to + গ্রহীতা — ক্রম উল্টালে 'to' যুক্ত হয় (Hena gave a pencil to me)"]
+            ] }
+          ]
+        },
+        {
+          "id": "objective-complement",
+          "title": "Object + Objective Complement",
+          "blocks": [
+            { "t": "p", "v": "*Hena considered me a brother.* → \"me\"=Obj, \"brother\"=Objective Complement — এখানে _me = brother_ (দুটোই একই সত্তাকে বোঝায়)।" },
+            { "t": "tip", "v": "*মূল পার্থক্য* : Double Object-এ Obj1 ≠ Obj2 (me ≠ a pencil); Object+Complement-এ Obj = Complement (me = brother)।" },
+            { "t": "p", "v": "*We elected him MP.* → S+V+Obj+Comp (him = MP)" },
+            { "t": "p", "v": "_Active ↔ Passive_ রূপান্তরে Sub ও Obj নিজেদের মধ্যে ভূমিকা বদলায়।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-types",
+      "title": "Transitive, Intransitive ও Linking Verb",
+      "cards": [
+        {
+          "id": "transitive",
+          "title": "Transitive Verb (সকর্মক ক্রিয়া)",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যে verb-এর object রয়েছে, তাকে *transitive verb* বলে। 'কি' বা 'কাকে' দিয়ে প্রশ্ন করলে verb-এর object পাওয়া যায়।" },
+            { "t": "kv", "v": [
+              ["She finished the task.", "[S / T.V / Obj] — কি?"],
+              ["Hamim got the letter.", "[S / T.V / Obj] — কি?"]
+            ] }
+          ]
+        },
+        {
+          "id": "intransitive",
+          "title": "Intransitive Verb (অকর্মক ক্রিয়া)",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যে verb-এর object থাকে না, তাকে *intransitive verb* বলে। 'কি'/'কাকে' দিয়ে প্রশ্ন করলে object পাওয়া যায় না।" },
+            { "t": "kv", "v": [
+              ["She cried loudly.", "[S / I.T.V / Ext] — loudly একটি extension, object নয়"],
+              ["Hamim goes to college.", "[S / I.T.V / Ext] — to college একটি extension, object নয়"]
+            ] }
+          ]
+        },
+        {
+          "id": "obj-vs-subcomp",
+          "title": "Object বনাম Subjective Complement — তুলনা",
+          "blocks": [
+            { "t": "p", "v": "*Object* : verb-এর পরের অংশটি subject-কে renaming করে না।" },
+            { "t": "kv", "v": [
+              ["Rupa takes tea.", "[S/V/Obj] — Rupa ≠ tea"],
+              ["He plays chess.", "[S/V/Obj]"]
+            ] },
+            { "t": "p", "v": "*Subjective Complement* : verb-এর পরের অংশটি subject-কেই describe/rename করে।" },
+            { "t": "kv", "v": [
+              ["Rupa looks cute.", "[S/L.V/Sub-comp] — Rupa = cute"],
+              ["Honey tastes sweet.", "[S/L.V/Sub-comp] — Honey = sweet"]
+            ] }
+          ]
+        },
+        {
+          "id": "subjective-complement",
+          "title": "Subjective Complement",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : কোনো sentence-এ verb-এর পরের অংশটুকু যদি verb-এর আগের অংশটুকুকেই (subject) বুঝায়, তবে verb-এর পরের অংশটুকুকে *Subjective Complement* বলে।" },
+            { "t": "p", "v": "Formula: `S + L.V + Adj/N/Pronoun (sub-comp)`" },
+            { "t": "kv", "v": [
+              ["We are students.", "[S/L.V/sub-comp(N)] — We = students"],
+              ["We are talented.", "[S/L.V/sub-comp(Adj)]"],
+              ["This pen is mine.", "[S/L.V/sub-comp(Pronoun)] — মানে 'my pen'"]
+            ] }
+          ]
+        },
+        {
+          "id": "linking-verbs",
+          "title": "Linking Verb (Copulative Verb / Copula)",
+          "blocks": [
+            { "t": "p", "v": "*DEF* : যেসব verb-এর পরে subjective complement থাকে, তাদেরকে *linking verb / copulative verb / copula* বলে।" },
+            { "t": "kv", "v": [
+              ["Imran looks smart.", "[S/L.V/sub-comp]"],
+              ["He was a doctor.", "[S/L.V/sub-comp]"]
+            ] },
+            { "t": "p", "v": "তালিকা: *be verb, become, feel, grow, look, remain, sound, seem, taste, stay, smell, turn* ইত্যাদি।" },
+            { "t": "tip", "v": "*NB*: এই verb গুলো একমাত্র তখনই linking verb হবে যদি এদের পরে subjective complement থাকে — নাহলে সাধারণ verb হতে পারে।" },
+            { "t": "kv", "v": [
+              ["Honey tastes sweet.", "[sub/L.V/sub-comp] — Honey = sweet → এখানে linking verb"],
+              ["Jui tastes street food.", "[sub/T.V/Obj] — street food = Object, Jui ≠ street food → এখানে linking verb নয়, সাধারণ transitive verb"]
+            ] }
+          ]
+        },
+        {
+          "id": "grow-example",
+          "title": "'Grow' — Linking বনাম Transitive",
+          "blocks": [
+            { "t": "p", "v": "*He grew old.* → grew = became (অর্থে ব্যবহৃত), old = subjective complement → এখানে *grow একটি linking verb*।" },
+            { "t": "p", "v": "*He grew rice.* → grew = cultivated/produced (অর্থে ব্যবহৃত), rice = Object → এখানে *grow একটি transitive verb*।" },
+            { "t": "tip", "v": "একই verb প্রসঙ্গভেদে ভিন্ন ভূমিকা নেয় — পরের অংশটি Adjective/complement হলে linking, আর Noun/object হলে transitive।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "অনুশীলন — কুইজ",
+      "cards": [
+        {
+          "id": "quiz-1",
+          "title": "কুইজ ০১ — Structure Analysis",
+          "blocks": [
+            { "t": "quiz", "q": "She looked cute at her childhood. The words 'cute' and 'at her childhood' are respectively—", "v": ["Object, complement", "Complement, extension", "Object, extension", "Extension, extension"], "a": 1, "note": "looked=L.V, cute=sub-comp(Adj), at her childhood=ext(Adv Phrase)" },
+            { "t": "quiz", "q": "Hena invited us yesterday. 'us' and 'yesterday' are respectively—", "v": ["Object, complement", "Complement, extension", "Object, extension", "Extension, extension"], "a": 2, "note": "invited=T.V, us=obj, yesterday=ext(Adv)" },
+            { "t": "quiz", "q": "We are in Dhaka. 'in Dhaka' is a/an—", "v": ["Object", "Complement", "Extension", "Subject"], "a": 2, "note": "are=থাকে/exist; in Dhaka=ext(Adv Phrase, কোথায়?)" },
+            { "t": "quiz", "q": "She studied hard. 'hard' is a/an—", "v": ["Subject", "Complement", "Extension", "Object"], "a": 2, "note": "hard=ext(Adv, কিভাবে পড়েছিল?)" },
+            { "t": "quiz", "q": "She is hard. 'hard' is a/an—", "v": ["Subject", "Complement", "Extension", "Object"], "a": 1, "note": "is=L.V; hard=sub-comp(Adj), She=strict অর্থে" },
+            { "t": "quiz", "q": "We made him captain two days ago. 'him', 'captain' and 'two days ago' are respectively—", "v": ["Object, complement, extension", "Complement, extension, object", "Object, extension, complement", "Object, extension, extension"], "a": 0, "note": "made=factitive verb; him=obj, captain=comp(obj-comp), two days ago=ext" },
+            { "t": "quiz", "q": "She invited me there yesterday. 'me', 'there' and 'yesterday' are respectively—", "v": ["Object, complement, extension", "Complement, extension, object", "Object, extension, complement", "Object, extension, extension"], "a": 3, "note": "invited=V; me=obj; there=ext(Adv); yesterday=ext(Adv)" }
+          ]
+        },
+        {
+          "id": "quiz-2",
+          "title": "কুইজ ০২ — Verb Types (Exam Questions)",
+          "blocks": [
+            { "t": "quiz", "q": "'Ihana sleeps only for four hours a night.' Here the verb 'sleeps' is—", "src": "47th BCS", "v": ["causative", "transitive", "intransitive", "factitive"], "a": 2, "note": "sleeps-এর object নেই; 'only for four hours a night' একটি extension।" },
+            { "t": "quiz", "q": "Father loves me. Here 'loves' is an example of a/an—", "src": "Medical Admission Test 2022-23", "v": ["intransitive verb", "simple verb", "auxiliary verb", "transitive verb"], "a": 3, "note": "loves এর object 'me' আছে → transitive verb" },
+            { "t": "quiz", "q": "Subject + linking verb + complement can be found in—", "src": "Cumilla University, B Unit 2018-19", "v": ["They do not seem nervous.", "The telephone rang.", "She does not laugh.", "She will buy Anindita a gift."], "a": 0, "note": "seem=L.V, nervous=sub-comp; অন্যগুলো intransitive বা double-object।" },
+            { "t": "quiz", "q": "Choose the correct one to fill in the blank. \"I came to England ___ English.\"", "src": "Medical Admission Test 2023-24", "v": ["to learn", "for to learn", "to learning", "for learning"], "a": 0, "note": "Infinitive of purpose (to+V1) ব্যবহৃত হয় উদ্দেশ্য বোঝাতে।" },
+            { "t": "quiz", "q": "\"The teacher has repeated herself twice.\" Here 'twice' is a/an—", "src": "Medical Admission Test 2021-22", "v": ["Adjective", "Adverb", "Preposition", "Noun"], "a": 1, "note": "twice = কতবার? frequency adverb (once, twice, thrice, four times...)" },
+            { "t": "quiz", "q": "\"Walking is a good exercise.\" Here \"walking\" is a—", "src": "Medical Admission Test 2016-17", "v": ["Verb", "Noun", "Gerund", "Adverb"], "a": 2, "note": "Sub=Noun=Gerund; walking subject position-এ noun-এর মতো কাজ করছে।" },
+            { "t": "quiz", "q": "We work every day except Friday. What part of speech is 'except'?", "src": "Medical Admission Test 2023-24", "v": ["adjective", "conjunction", "adverb", "preposition"], "a": 3, "note": "except = but/save/sans — সবই preposition।" },
+            { "t": "quiz", "q": "___________ others is a great deed.", "src": "BDS Question 2024-2025 [48 BCS]", "v": ["To help / Helping", "Helped", "To helping", "To have helped"], "a": 0, "note": "Subject-পদে Gerund (Helping) বা Infinitive (To help) দুটোই বসতে পারে।" }
+          ]
+        }
+      ]
+    }
+  ]
+}

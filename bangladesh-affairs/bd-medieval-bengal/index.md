@@ -4,7 +4,7 @@
 
 **বিষয়:** বাংলাদেশ বিষয়াবলি · **অধ্যায়:** 9 · **কার্ড:** 52
 
-সূত্র: https://porua.example.com/bangladesh-affairs/bd-medieval-bengal/
+সূত্র: https://subrotoasg.github.io/poruya/bangladesh-affairs/bd-medieval-bengal/
 
 ---
 

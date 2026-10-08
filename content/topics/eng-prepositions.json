@@ -1,0 +1,394 @@
+{
+  "id": "eng-prepositions",
+  "subject": "english",
+  "title": "Prepositions — Place, Movement, Time ও Appropriate Use",
+  "subtitle": "স্থির অবস্থান, গতিশীলতা, সময় ও মুখস্থনির্ভর Appropriate Preposition",
+  "description": "Preposition-এর মৌলিক কনসেপ্ট (preposition বনাম adverb বনাম adjective বনাম conjunction), on/over/above, under/below, between/among, before/in front of, প্রিপোজিশন অফ মুভমেন্ট, প্রিপোজিশন অফ টাইম (since/for, before/after), এবং appropriate preposition ও phrasal verb — admission test ও BCS প্রশ্নসহ।",
+  "keywords": ["preposition", "prepositional phrase", "preposition of place", "preposition of movement", "preposition of time", "since vs for", "appropriate preposition", "phrasal verb", "English grammar"],
+  "sections": [
+    {
+      "id": "basic-concept",
+      "title": "Preposition — মৌলিক ধারণা",
+      "cards": [
+        {
+          "id": "rule-1",
+          "title": "Rule ১ — Preposition + Prepositional Object",
+          "blocks": [
+            { "t": "p", "v": "*Traditional Grammar অনুসারে* : `Preposition → Prepositional Object (Noun / Pronoun / Noun Clause / Noun Phrase)`" },
+            { "t": "tip", "v": "*Clause* হলো এমন একগুচ্ছ words যেখানে Sub ও Finite Verb একসাথে থাকে। *Phrase* হলো এমন একগুচ্ছ words যেখানে Sub ও Finite Verb একত্রে থাকে না।" },
+            { "t": "kv", "v": [
+              ["He lives in Dhaka.", "in=prep, Dhaka=Noun"],
+              ["She is interested in him.", "in=prep, him=Pronoun"],
+              ["She is interested in what I have.", "in=prep, \"what I have\"=Noun Clause (sub+finite verb আছে)"],
+              ["She is interested in this beautiful spot.", "in=prep, \"this beautiful spot\"=Noun Phrase"]
+            ] }
+          ]
+        },
+        {
+          "id": "rule-2",
+          "title": "Rule ২ — Preposition যখন Adverb",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : Preposition এর পরে N/PN/N clause/N phrase না থাকলে উক্ত Preposition-টি *Adverb* এর কাজ করে।" },
+            { "t": "tip", "v": "Verb → কখন/কোথায়/কিভাবে? → Adverb" },
+            { "t": "kv", "v": [
+              ["He came into my room.", "into=Preposition (\"my room\"=Noun আছে)"],
+              ["He came into.", "into=Adverb (পরে কোনো object নেই)"],
+              ["The ship went down the sea.", "down=Preposition (\"the sea\"=Noun)"],
+              ["The ship went down.", "down=Adverb"]
+            ] }
+          ]
+        },
+        {
+          "id": "rule-3",
+          "title": "Rule ৩ — Determiner ও Noun এর মাঝে Preposition",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : Determiner ও Noun এর মাঝে Preposition থাকলে তা *Adjective* এর কাজ করে।" },
+            { "t": "kv", "v": [
+              ["Please write to me at the above address.", "the(Det) + above(Adj) + address(N) {40th BCS}"],
+              ["The up train went down.", "the(Det) + up(Adj, modifying train) + train(N) + down(Adv)"]
+            ] },
+            { "t": "tip", "v": "তুলনা করুন — \"I saw the nice car.\" (Det/Adj/N — স্বাভাবিক adjective structure)" }
+          ]
+        },
+        {
+          "id": "rule-4",
+          "title": "Rule ৪ — Preposition যখন Conjunction",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : কোনো preposition দ্বারা দুইটি Simple sentence যুক্ত হলে সেই preposition-টি *conjunction* এর কাজ করে।" },
+            { "t": "kv", "v": [
+              ["He came here after independence.", "after=preposition; independence=Noun (এক sentence)"],
+              ["He came here after I had left.", "after=conjunction; \"I had left\"=নিজেই একটি Simple Sentence (দুটি sentence যুক্ত)"]
+            ] }
+          ]
+        },
+        {
+          "id": "above-quiz-examples",
+          "title": "'Above' — একই শব্দ, চার ভূমিকা",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Please look above the trees.", "*preposition* — above+trees(N)"],
+              ["Please look above.", "*adverb* — পরে কোনো object নেই"],
+              ["Our blessings come from above.", "*noun* — prep('from')+১টি word=Noun"],
+              ["The above sentence is an example of a passive voice.", "*adjective* — the(Det)+above(Adj)+sentence(N)"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preposition-categories",
+      "title": "Preposition শেখার ৪টি ভাগ",
+      "cards": [
+        {
+          "id": "four-parts",
+          "title": "চার ভাগে বিভক্ত করে শিখলে সুবিধা",
+          "blocks": [
+            { "t": "ul", "v": [
+              "১. Prepositions of Positioning/Place (স্থির অবস্থান)",
+              "২. Prepositions of Movement (গতিশীল)",
+              "৩. Prepositions of Time (সময়)",
+              "৪. Others (Appropriate Prepositions/Group Verbs) — মুখস্থ নির্ভর"
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "position-prepositions",
+      "title": "Preposition of Positioning/Place (স্থির)",
+      "cards": [
+        {
+          "id": "on-over-above",
+          "title": "On, Over, Above — পার্থক্য",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["On", "স্পর্শ করে উপরে থাকা বুঝালে বসে; তবে কাভার/ঢেকে রাখা মুখ্য উদ্দেশ্য নয়"],
+              ["Over", "স্পর্শ করে বা না করে সম্পূর্ণ/আংশিক কাভার করা বা ঢেকে রাখা বোঝাতে"],
+              ["Above", "সরাসরি গায়ের উপরে নয়; উচ্চতার দিক থেকে উপরে বা পাশের দিক থেকে উপরে বোঝাতে"]
+            ] },
+            { "t": "ul", "v": [
+              "There is a large clock above the sofa. (উচ্চতার দিক থেকে উপরে, স্পর্শ না করে)",
+              "There is a red tablecloth over the table. (সম্পূর্ণ cover করে আছে)"
+            ] }
+          ]
+        },
+        {
+          "id": "on-over-above-practice",
+          "title": "On/Over/Above — Fill in the Blanks",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["We played the match 1000 metres ___ the sea level.", "*above* (উচ্চতা)"],
+              ["The umbrella is ___ the table.", "*on*"],
+              ["The umbrella is ___ her head.", "*over* (মাথার উপর কাভার করে ধরা)"],
+              ["Write your address ___ the line.", "*above*"],
+              ["The blue box is ___ the desk.", "*on*"],
+              ["She put the blanket ___ her little son.", "*over* (কম্বল জড়িয়ে/কাভার করে)"],
+              ["Put some butter ___ the piece of bread.", "*over*"],
+              ["She saw the book ___ the bed.", "*on*"]
+            ] }
+          ]
+        },
+        {
+          "id": "under-below",
+          "title": "Under ও Below",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Under", "সরাসরি নিচে, প্রায়ই কিছুর দ্বারা ঢাকা/আবৃত অবস্থায়"],
+              ["Below", "সাধারণ অর্থে নিচে, সরাসরি স্পর্শ না করেও হতে পারে"]
+            ] }
+          ]
+        },
+        {
+          "id": "between-among",
+          "title": "Between বনাম Among",
+          "blocks": [
+            { "t": "note", "k": "Between", "v": "১. সাধারণভাবে দুইয়ের মধ্যে বুঝাতে। ২. ⭐⭐ দুইয়ের অধিক proper noun এর মধ্যে বুঝাতে। ৩. ⭐⭐⭐ দুইয়ের অধিক ব্যক্তি, কোম্পানি, দেশ ইত্যাদির মধ্যে চুক্তি (treaty) বুঝাতে।" },
+            { "t": "note", "k": "Among", "v": "১. সাধারণভাবে দুইয়ের অধিকের মধ্যে বুঝাতে। ২. সংখ্যা উল্লেখ না থেকে শুধু plural কোনো noun বা pronoun উল্লেখ থাকলে (যেমন: among boys)।" }
+          ]
+        },
+        {
+          "id": "before-infront",
+          "title": "Before ও In front of",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Before", "সময়গত অর্থে 'আগে/পূর্বে' (প্রসঙ্গভেদে সামনে অর্থেও)"],
+              ["In front of", "স্থানগত অর্থে 'সামনে' — দুই বা তার বেশি ব্যক্তি/বস্তুর আপেক্ষিক অবস্থান"]
+            ] },
+            { "t": "p", "v": "Example: \"The man in green is in front of the man in blue.\" (queue-এ অবস্থানগত সামনে)" }
+          ]
+        },
+        {
+          "id": "more-place-prepositions",
+          "title": "আরও কিছু Place Preposition — ইলাস্ট্রেটেড",
+          "blocks": [
+            {
+              "t": "table",
+              "h": ["Preposition", "Use (বাংলা অর্থ)"],
+              "v": [
+                ["In", "ভিতরে/মধ্যে (এ/য়/তে)"],
+                ["Inside", "ভিতরের দিকে"],
+                ["Outside", "বাহিরের দিকে"],
+                ["Between", "দুইটার মাঝে"],
+                ["Behind", "পিছনে/পিছে/পিছনের দিকে"],
+                ["Beside", "পাশে/পাশের"],
+                ["Next to", "একদম পাশেই"],
+                ["Opposite", "বিপরীত দিকে"],
+                ["Near", "কাছে"]
+              ]
+            },
+            { "t": "ul", "v": [
+              "The cat is in the box.",
+              "The boy is inside the room.",
+              "The dog is outside the house.",
+              "The ball is between two boxes.",
+              "The car is behind the tree.",
+              "The bag is beside the chair.",
+              "The bank is next to the hospital.",
+              "The mosque is opposite the school."
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "movement-prepositions",
+      "title": "Prepositions of Movement (গতিশীল)",
+      "cards": [
+        {
+          "id": "across-through-into",
+          "title": "Across, Through, Into, Out of",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Across", "কোনো কিছুর (নদী/রাস্তা) একপাশ থেকে অন্যপাশে পার হওয়া"],
+              ["Through", "কোনো কিছুর ভেতর দিয়ে চলা/পার হওয়া"],
+              ["Into", "কোনো কিছুর ভেতরে প্রবেশ করা"],
+              ["Out of", "কোনো কিছুর বাইরে যাওয়া"]
+            ] },
+            { "t": "tip", "v": "\"enter into\" ভুল গঠন — *enter* নিজেই সকর্মক (transitive); শুধু \"enter the tent\" বা \"go into the tent\" বলা সঠিক।" },
+            { "t": "p", "v": "Example: \"They are going into the tent.\" (into = বাহির থেকে ভিতরে প্রবেশ)" }
+          ]
+        },
+        {
+          "id": "up-down-onto",
+          "title": "Up, Down, Onto, Off, Under, Over, Past/Beside",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Up", "উপরের দিকে movement"],
+              ["Down", "নিচের দিকে movement"],
+              ["Onto", "কোনো কিছুর উপরে movement (ওঠা)"],
+              ["Off", "কোনো কিছু থেকে নেমে/সরে যাওয়া"],
+              ["Under", "কোনো কিছুর নিচ দিয়ে movement"],
+              ["Over", "উচ্চতা/বাধার উপর দিয়ে movement"],
+              ["Past/Beside", "কোনো কিছুর পাশ দিয়ে চলে যাওয়া"]
+            ] },
+            { "t": "p", "v": "Example: \"A bird flew over our heads.\" (over = উচ্চতা/বাধার উপর দিয়ে গমন করা)" },
+            { "t": "tip", "v": "\"Over\" প্রসঙ্গভেদে Position (ঢেকে রাখা) বা Movement (উপর দিয়ে পার হওয়া) দুই অর্থেই ব্যবহৃত হয়।" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-prepositions",
+      "title": "Prepositions of Time",
+      "cards": [
+        {
+          "id": "time-list",
+          "title": "Time Prepositions সম্পূর্ণ তালিকা",
+          "blocks": [
+            { "t": "p", "v": "`on, in, at, by, within, since, for, during, after, before, till, until` etc." }
+          ]
+        },
+        {
+          "id": "after-before",
+          "title": "After বনাম Before",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : কোনো সময় শুরুর পূর্বে বুঝাতে *before* এবং পরে বুঝাতে *after* ব্যবহার করা হয়।" },
+            { "t": "ul", "v": [
+              "He gave up smoking after the birth of his first child.",
+              "He came here before the war of independence."
+            ] }
+          ]
+        },
+        {
+          "id": "since-for",
+          "title": "Since বনাম For",
+          "blocks": [
+            { "t": "p", "v": "*RULE* : নির্দিষ্ট সময় বিন্দু (a point of time) বুঝাতে *since* ব্যবহৃত হয়; অনির্দিষ্ট সময়কাল/স্থিতিকাল (a period/duration) বুঝাতে *for* ব্যবহৃত হয়।" },
+            { "t": "tip", "v": "Hena has been ill *since* Friday. (Friday = নির্দিষ্ট সময়বিন্দু)" }
+          ]
+        },
+        {
+          "id": "on-time-in-time",
+          "title": "On time বনাম In time",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["On time (mostly used)", "নির্ধারিত সময় অনুযায়ী/ঠিক সময়ে"],
+              ["To time (less used)", "নির্ধারিত সময় অনুযায়ী (কম প্রচলিত রূপ)"],
+              ["In time", "নির্ধারিত সময়ে নয়, বরং দেরি হওয়ার আগেই/যথাসময়ে"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appropriate-prepositions",
+      "title": "Appropriate Preposition ও Phrasal Verb",
+      "cards": [
+        {
+          "id": "no-preposition-verbs",
+          "title": "যে Verb-গুলোর পরে Preposition বসে না",
+          "blocks": [
+            { "t": "p", "v": "কিছু verb (যেমন: resemble) নিজেই সম্পূর্ণ সকর্মক অর্থ প্রকাশ করে — তাদের পরে অতিরিক্ত preposition বসানো ভুল।" },
+            { "t": "p", "v": "Example: \"Abdullah resembles his father.\" — 'resemble' স্বয়ং transitive verb, কোনো preposition প্রয়োজন নেই।" }
+          ]
+        },
+        {
+          "id": "causative-verbs",
+          "title": "Non-causative বনাম Causative Verb",
+          "blocks": [
+            {
+              "t": "table",
+              "h": ["Non-causative", "Causative"],
+              "v": [
+                ["see", "show"],
+                ["learn", "teach"],
+                ["know", "inform"],
+                ["marry", "marry smb off"],
+                ["swear", "swear in"]
+              ]
+            },
+            { "t": "tip", "v": "swear–swore–sworn (V1-V2-V3). Example: \"The thief was sworn in in the classroom.\" (sworn in = শপথ করানো হয়েছিল — causative; দ্বিতীয় 'in' = preposition, classroom-এর ভিতরে)" }
+          ]
+        },
+        {
+          "id": "look-phrasal",
+          "title": "Look-এর বিভিন্ন Phrasal রূপ",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["look at", "কারো দিকে তাকানো"],
+              ["look for", "কোনো কিছু খুঁজে বের করা"],
+              ["look into", "তদন্ত করা/অনুসন্ধান করা"],
+              ["look down upon/on", "কাউকে তুচ্ছ/হীন মনে করা"],
+              ["look after", "কারো দেখাশোনা/তত্ত্বাবধান করা"]
+            ] }
+          ]
+        },
+        {
+          "id": "call-phrasal",
+          "title": "Call-এর বিভিন্ন Phrasal রূপ",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["call in", "ডেকে আনা"],
+              ["call on", "(ব্যক্তির সাথে) সাক্ষাৎ করতে যাওয়া"]
+            ] }
+          ]
+        },
+        {
+          "id": "blind-lean",
+          "title": "Blind of/to, Lean against",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Blind of", "চোখে না দেখা (শারীরিকভাবে অন্ধ)"],
+              ["Blind to", "দেখেও না দেখা/উপলব্ধি করতে অস্বীকার করা (আলংকারিক)"],
+              ["Lean against", "কোনো কিছুর সাহায্যে শরীর হেলান দেওয়া/ঠেকানো"]
+            ] }
+          ]
+        },
+        {
+          "id": "made-of-from-in",
+          "title": "Made of / from / in",
+          "blocks": [
+            { "t": "kv", "v": [
+              ["Made from", "মূল কাঁচামাল প্রক্রিয়াজাত হয়ে ভিন্ন রূপে তৈরি হলে (কাগজ কাঠ থেকে তৈরি, কিন্তু কাঠের মতো দেখতে নয়)"],
+              ["Made in + স্থান", "কোথায় তৈরি হয়েছে বোঝাতে"],
+              ["Made of", "উপাদানটি যদি অপরিবর্তিত/স্পষ্টভাবে চেনা যায় (যেমন: table made of wood)"]
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "অনুশীলন — কুইজ",
+      "cards": [
+        {
+          "id": "quiz-prep-1",
+          "title": "কুইজ ০১ — Movement ও Part of Speech",
+          "blocks": [
+            { "t": "quiz", "q": "A bird flew ___ our heads.", "v": ["On", "Over", "Into", "Off"], "a": 1 },
+            { "t": "quiz", "q": "Rana jumped ___ the wall when an angry dog chased him.", "v": ["On", "Over", "Into", "Off"], "a": 1, "note": "জাম্প করে ডিঙানো বুঝাতে 'over'" },
+            { "t": "quiz", "q": "The living standard of the poor people is going ___ day by day for inflation.", "v": ["Down", "Over", "Above", "Up"], "a": 0, "note": "মুদ্রাস্ফীতিতে জীবনযাত্রার মান দিন দিন নিচে নামছে" },
+            { "t": "quiz", "q": "Don't run ___ name and fame.", "v": ["for", "to", "towards", "after"], "a": 3, "note": "idiom — 'run after'/'hanker after' = পিছনে ছোটা, লোভ করা" },
+            { "t": "quiz", "q": "He was going ___ college.", "v": ["at", "to", "towards", "after"], "a": 1 },
+            { "t": "quiz", "q": "The ship went down the sea. Here 'down' is a/an ___.", "v": ["Noun", "Adjective", "Preposition", "Adverb"], "a": 2, "note": "down+the sea(N) → preposition" }
+          ]
+        },
+        {
+          "id": "quiz-prep-2",
+          "title": "কুইজ ০২ — Time Prepositions",
+          "blocks": [
+            { "t": "quiz", "q": "Hena has been ill ___ Friday.", "v": ["from", "for", "since", "by"], "a": 2, "note": "Friday = নির্দিষ্ট সময়বিন্দু → since" },
+            { "t": "quiz", "q": "The train left the station ___ time.", "v": ["in", "against", "to", "on"], "a": 3, "note": "on time = ঠিক সময়ে (mostly used)" },
+            { "t": "quiz", "q": "The Second World War broke ___ in September 1939.", "v": ["out", "through", "away", "in"], "a": 0, "note": "break out = (যুদ্ধ/রোগ/আগুন) আকস্মিকভাবে শুরু হওয়া" }
+          ]
+        },
+        {
+          "id": "quiz-prep-3",
+          "title": "কুইজ ০৩ — Appropriate Preposition (Exam Mix)",
+          "blocks": [
+            { "t": "quiz", "q": "He can't see properly. He is blind ___ eyes.", "v": ["to", "of", "from", "since"], "a": 1, "note": "শারীরিকভাবে চোখে না দেখা → blind of" },
+            { "t": "quiz", "q": "Lean the ladder ___ the wall.", "v": ["since", "before", "with", "against"], "a": 3 },
+            { "t": "quiz", "q": "Paper is made ___ wood.", "v": ["in", "of", "from", "by"], "a": 2, "note": "কাঠ রূপান্তরিত হয়ে কাগজে পরিণত হয় → made from" },
+            { "t": "quiz", "q": "The chair was made ___ China.", "v": ["in", "of", "from", "by"], "a": 0, "note": "'China' এখানে স্থান বোঝাচ্ছে (কোথায় তৈরি) → made in" },
+            { "t": "quiz", "q": "Abdullah resembles ___ his father.", "v": ["like", "of", "since", "No preposition needed"], "a": 3, "note": "resemble স্বয়ং transitive verb" },
+            { "t": "quiz", "q": "The ambassador called ___ the President.", "v": ["in", "on", "at", "none of them"], "a": 1, "note": "call on = সাক্ষাৎ করতে যাওয়া" },
+            { "t": "quiz", "q": "Don't look down ___ the poor.", "v": ["into", "for", "of", "upon"], "a": 3, "note": "look down upon = তুচ্ছ মনে করা" },
+            { "t": "quiz", "q": "He died ___ cholera.", "v": ["in", "for", "of", "over"], "a": 2, "note": "রোগে মারা যাওয়া বোঝাতে 'die of'" },
+            { "t": "quiz", "q": "The supervisor took him ___ task for his negligence. The correct preposition to fill in the gap is ___.", "src": "MAT 25-26", "v": ["for", "at", "to", "by"], "a": 2, "note": "idiom — 'take someone to task' = তিরস্কার করা" },
+            { "t": "quiz", "q": "Pantho had left his book ___ the bed before he got ___ his room.", "src": "Cluster Agricultural University 2023-24", "v": ["at/into", "on/out of", "in/towards", "by/on"], "a": 1, "note": "'on the bed' = বিছানার উপরে; 'got out of his room' = রুম থেকে বের হলো" }
+          ]
+        }
+      ]
+    }
+  ]
+}
